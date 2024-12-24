@@ -24,6 +24,12 @@
     "categories": ["Web Browser", "Privacy"]
   },
   {
+    "name": "Termux Monet",
+    "url": "https://github.com/Termux-Monet/termux-monet",
+    "description": "Termux Monet is a custom version of Termux that includes an enhanced UI for Android devices.",
+    "categories": ["Terminal Emulator", "Android"]
+  },
+  {
     "name": "Revanced Builds - J-HC",
     "url": "https://github.com/j-hc/revanced-magisk-module",
     "description": "A builder for Revanced modules.",
