@@ -341,7 +341,7 @@
         {
           "name": "Magisk-v25.2.apk",
           "size": 11278270,
-          "download_count": 3943716,
+          "download_count": 3943717,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk"
         },
         {
@@ -881,7 +881,7 @@
         {
           "name": "android13-5.15.144_2024-03-boot-lz4.img.gz",
           "size": 19071612,
-          "download_count": 352,
+          "download_count": 353,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/android13-5.15.144_2024-03-boot-lz4.img.gz"
         },
         {
@@ -2125,7 +2125,7 @@
         {
           "name": "KernelSU_v1.0.1_11928-release.apk",
           "size": 8455550,
-          "download_count": 322069,
+          "download_count": 322072,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.1/KernelSU_v1.0.1_11928-release.apk"
         }
       ]
@@ -3317,7 +3317,7 @@
         {
           "name": "KernelSU_v0.9.5_11872-release.apk",
           "size": 8527498,
-          "download_count": 26163,
+          "download_count": 26164,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.5/KernelSU_v0.9.5_11872-release.apk"
         }
       ]
@@ -4953,7 +4953,7 @@
         {
           "name": "AnyKernel3-android14-5.15.110_2023-09.zip",
           "size": 18145592,
-          "download_count": 106,
+          "download_count": 107,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/AnyKernel3-android14-5.15.110_2023-09.zip"
         },
         {
@@ -19008,7 +19008,7 @@
         {
           "name": "brave-browser-nightly_1.75.120_amd64.deb",
           "size": 120978748,
-          "download_count": 1,
+          "download_count": 2,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.75.120/brave-browser-nightly_1.75.120_amd64.deb"
         },
         {
@@ -26276,7 +26276,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 273038898,
-          "download_count": 6987,
+          "download_count": 6991,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.73.104/Bravearm64Universal.apk"
         },
         {
@@ -35224,6 +35224,52 @@
       ]
     }
   ],
+  "Termux Monet": [
+    {
+      "tag_name": "v0.119.0-b1-36",
+      "name": "\ud83d\udc4b Farewell!",
+      "published_at": "2024-09-14T09:49:19Z",
+      "body": "# Discontinued!\r\nThe Termux Monet project has been discontinued and is currently unmaintained. Feel free to continue the development or use it as a base for your own fork.\r\n\r\nMaintaining this project over the years has allowed me to learn a great deal about Android development. It's been a long and rewarding journey, but now it's time to let someone else take the reins. And remember: Termux-Monet was mostly made by the community, not me. All the work has been done by YOU.\r\nAll this was possible thanks to all of you :)\r\n\r\nNow... I'm tired. and it was accumulating a ton of bugs that i couldn't solve. i'm gonna do something else.\r\n\r\n### Good Luck!\r\n",
+      "assets": [
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_arm64-v8a.apk",
+          "size": 9602790,
+          "download_count": 6283,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_arm64-v8a.apk"
+        },
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_armeabi-v7a.apk",
+          "size": 9256010,
+          "download_count": 859,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_armeabi-v7a.apk"
+        },
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_sha256sums",
+          "size": 658,
+          "download_count": 260,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_sha256sums"
+        },
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_universal.apk",
+          "size": 13240836,
+          "download_count": 1579,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_universal.apk"
+        },
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_x86.apk",
+          "size": 9569514,
+          "download_count": 283,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_x86.apk"
+        },
+        {
+          "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_x86_64.apk",
+          "size": 9586314,
+          "download_count": 389,
+          "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_x86_64.apk"
+        }
+      ]
+    }
+  ],
   "Revanced Builds - J-HC": [
     {
       "tag_name": "20220984",
@@ -35234,7 +35280,7 @@
         {
           "name": "googlephotos-revanced-magisk-v7.11.0.705590205-arm-v7a.zip",
           "size": 101109018,
-          "download_count": 57,
+          "download_count": 58,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/googlephotos-revanced-magisk-v7.11.0.705590205-arm-v7a.zip"
         },
         {
@@ -35246,7 +35292,7 @@
         {
           "name": "googlephotos-revanced-v7.11.0.705590205-arm-v7a.apk",
           "size": 103713087,
-          "download_count": 42,
+          "download_count": 44,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/googlephotos-revanced-v7.11.0.705590205-arm-v7a.apk"
         },
         {
