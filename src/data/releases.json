@@ -9,7 +9,7 @@
         {
           "name": "Magisk-v28.1.apk",
           "size": 11716982,
-          "download_count": 406157,
+          "download_count": 406294,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk"
         }
       ]
@@ -35,7 +35,7 @@
         {
           "name": "notes.md",
           "size": 81,
-          "download_count": 47090,
+          "download_count": 47107,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28101/notes.md"
         }
       ]
@@ -101,7 +101,7 @@
         {
           "name": "Magisk-v28.0.apk",
           "size": 11212065,
-          "download_count": 993021,
+          "download_count": 993068,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v28.0/Magisk-v28.0.apk"
         }
       ]
@@ -193,7 +193,7 @@
         {
           "name": "app-debug.apk",
           "size": 22701729,
-          "download_count": 45755,
+          "download_count": 45756,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27006/app-debug.apk"
         },
         {
@@ -245,7 +245,7 @@
         {
           "name": "Magisk-v27.0.apk",
           "size": 12498796,
-          "download_count": 4795208,
+          "download_count": 4795209,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk"
         }
       ]
@@ -273,7 +273,7 @@
         {
           "name": "Magisk.v26.3.apk",
           "size": 12551118,
-          "download_count": 520873,
+          "download_count": 520874,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.3/Magisk.v26.3.apk"
         }
       ]
@@ -287,7 +287,7 @@
         {
           "name": "Magisk-v26.2.apk",
           "size": 12510158,
-          "download_count": 86052,
+          "download_count": 86053,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.2/Magisk-v26.2.apk"
         }
       ]
@@ -507,7 +507,7 @@
         {
           "name": "Magisk-v22.1.apk",
           "size": 6720493,
-          "download_count": 565612,
+          "download_count": 565613,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v22.1/Magisk-v22.1.apk"
         },
         {
@@ -553,7 +553,7 @@
         {
           "name": "Magisk-v21.4.zip",
           "size": 6173806,
-          "download_count": 1068917,
+          "download_count": 1068918,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-v21.4.zip"
         }
       ]
@@ -562,7 +562,7 @@
       "tag_name": "manager-v8.0.7",
       "name": "Magisk Manager v8.0.7",
       "published_at": "2021-01-17T14:16:21Z",
-      "body": "",
+      "body": "no changelog",
       "assets": [
         {
           "name": "MagiskManager-v8.0.7.apk",
@@ -602,7 +602,7 @@
       "tag_name": "manager-v8.0.6",
       "name": "Magisk Manager v8.0.6",
       "published_at": "2021-01-16T12:56:53Z",
-      "body": "",
+      "body": "no changelog",
       "assets": [
         {
           "name": "MagiskManager-v8.0.6.apk",
@@ -629,7 +629,7 @@
         {
           "name": "android12-5.10.198_2024-01-boot-gz.img.gz",
           "size": 17118780,
-          "download_count": 15943,
+          "download_count": 15944,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/android12-5.10.198_2024-01-boot-gz.img.gz"
         },
         {
@@ -1109,7 +1109,7 @@
         {
           "name": "android14-6.1.43_2023-11-boot-lz4.img.gz",
           "size": 14379905,
-          "download_count": 293,
+          "download_count": 294,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/android14-6.1.43_2023-11-boot-lz4.img.gz"
         },
         {
@@ -1529,7 +1529,7 @@
         {
           "name": "KernelSU_v1.0.2_11986-release.apk",
           "size": 7934006,
-          "download_count": 171719,
+          "download_count": 171735,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/KernelSU_v1.0.2_11986-release.apk"
         }
       ]
@@ -4201,7 +4201,7 @@
         {
           "name": "KernelSU_v0.9.4_11838-release.apk",
           "size": 8453406,
-          "download_count": 103724,
+          "download_count": 103725,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.4/KernelSU_v0.9.4_11838-release.apk"
         }
       ]
@@ -5959,13 +5959,13 @@
         {
           "name": "android12-5.10.149_2023-01-boot-lz4.img.gz",
           "size": 17380340,
-          "download_count": 488,
+          "download_count": 489,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/android12-5.10.149_2023-01-boot-lz4.img.gz"
         },
         {
           "name": "android12-5.10.149_2023-01-boot.img.gz",
           "size": 17161256,
-          "download_count": 758,
+          "download_count": 759,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/android12-5.10.149_2023-01-boot.img.gz"
         },
         {
@@ -6733,7 +6733,7 @@
         {
           "name": "AnyKernel3-android13-5.10.149_2023-01.zip",
           "size": 21790529,
-          "download_count": 165,
+          "download_count": 166,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/AnyKernel3-android13-5.10.149_2023-01.zip"
         },
         {
@@ -11453,7 +11453,7 @@
         {
           "name": "KernelSU_v0.7.2_11413-release.apk",
           "size": 7055480,
-          "download_count": 47118,
+          "download_count": 47119,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.2/KernelSU_v0.7.2_11413-release.apk"
         }
       ]
@@ -16924,7 +16924,7 @@
       "tag_name": "v0.5.6",
       "name": "v0.5.6",
       "published_at": "2023-05-15T04:52:47Z",
-      "body": "",
+      "body": "no changelog",
       "assets": [
         {
           "name": "android12-5.10.136_2022-11-boot-gz.img.gz",
@@ -17214,7 +17214,7 @@
       "tag_name": "v0.5.5",
       "name": "v0.5.5",
       "published_at": "2023-04-21T07:47:55Z",
-      "body": "",
+      "body": "no changelog",
       "assets": [
         {
           "name": "android12-5.10.101_2022-05-boot-gz.img.gz",
@@ -17564,7 +17564,7 @@
       "tag_name": "v0.5.4",
       "name": "v0.5.4",
       "published_at": "2023-04-19T13:57:21Z",
-      "body": "",
+      "body": "no changelog",
       "assets": [
         {
           "name": "AnyKernel3-android12-5.10.101_2022-05.zip",
@@ -18606,23 +18606,23 @@
   "Signal": [
     {
       "tag_name": "v7.28.4",
-      "name": null,
+      "name": "v7.28.4",
       "published_at": "2024-12-21T17:55:57Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.28.4.apk",
           "size": 102728843,
-          "download_count": 1909,
+          "download_count": 1911,
           "browser_download_url": "https://github.com/signalapp/Signal-Android/releases/download/v7.28.4/Signal-Android-website-prod-universal-release-7.28.4.apk"
         }
       ]
     },
     {
       "tag_name": "v7.28.3",
-      "name": null,
+      "name": "v7.28.3",
       "published_at": "2024-12-19T06:08:06Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.28.3.apk",
@@ -18634,9 +18634,9 @@
     },
     {
       "tag_name": "v7.28.2",
-      "name": null,
+      "name": "v7.28.2",
       "published_at": "2024-12-18T21:42:01Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.28.2.apk",
@@ -18648,9 +18648,9 @@
     },
     {
       "tag_name": "v7.28.1",
-      "name": null,
+      "name": "v7.28.1",
       "published_at": "2024-12-17T18:19:30Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.28.1.apk",
@@ -18662,9 +18662,9 @@
     },
     {
       "tag_name": "v7.28.0",
-      "name": null,
+      "name": "v7.28.0",
       "published_at": "2024-12-12T17:43:06Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.28.0.apk",
@@ -18676,9 +18676,9 @@
     },
     {
       "tag_name": "v7.27.1",
-      "name": null,
+      "name": "v7.27.1",
       "published_at": "2024-12-06T21:29:27Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.27.1.apk",
@@ -18690,9 +18690,9 @@
     },
     {
       "tag_name": "v7.27.0",
-      "name": null,
+      "name": "v7.27.0",
       "published_at": "2024-12-04T20:08:26Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.27.0.apk",
@@ -18704,9 +18704,9 @@
     },
     {
       "tag_name": "v7.26.1",
-      "name": null,
+      "name": "v7.26.1",
       "published_at": "2024-11-22T19:01:16Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.26.1.apk",
@@ -18718,9 +18718,9 @@
     },
     {
       "tag_name": "v7.26.0",
-      "name": null,
+      "name": "v7.26.0",
       "published_at": "2024-11-21T17:06:01Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.26.0.apk",
@@ -18732,9 +18732,9 @@
     },
     {
       "tag_name": "v7.25.2",
-      "name": null,
+      "name": "v7.25.2",
       "published_at": "2024-11-21T15:50:35Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.25.2.apk",
@@ -18746,9 +18746,9 @@
     },
     {
       "tag_name": "v7.25.1",
-      "name": null,
+      "name": "v7.25.1",
       "published_at": "2024-11-21T02:00:45Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.25.1.apk",
@@ -18760,9 +18760,9 @@
     },
     {
       "tag_name": "v7.25.0",
-      "name": null,
+      "name": "v7.25.0",
       "published_at": "2024-11-14T04:28:45Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.25.0.apk",
@@ -18774,9 +18774,9 @@
     },
     {
       "tag_name": "v7.24.2",
-      "name": null,
+      "name": "v7.24.2",
       "published_at": "2024-11-08T16:34:16Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.24.2.apk",
@@ -18788,9 +18788,9 @@
     },
     {
       "tag_name": "v7.24.1",
-      "name": null,
+      "name": "v7.24.1",
       "published_at": "2024-11-07T20:47:49Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.24.1.apk",
@@ -18802,9 +18802,9 @@
     },
     {
       "tag_name": "v7.23.1",
-      "name": null,
+      "name": "v7.23.1",
       "published_at": "2024-11-01T20:30:58Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.23.1.apk",
@@ -18816,9 +18816,9 @@
     },
     {
       "tag_name": "v7.23.0",
-      "name": null,
+      "name": "v7.23.0",
       "published_at": "2024-10-31T21:09:07Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.23.0.apk",
@@ -18830,9 +18830,9 @@
     },
     {
       "tag_name": "v7.22.2",
-      "name": null,
+      "name": "v7.22.2",
       "published_at": "2024-10-29T19:01:07Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.22.2.apk",
@@ -18844,9 +18844,9 @@
     },
     {
       "tag_name": "v7.22.1",
-      "name": null,
+      "name": "v7.22.1",
       "published_at": "2024-10-25T20:47:35Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.22.1.apk",
@@ -18858,9 +18858,9 @@
     },
     {
       "tag_name": "v7.22.0",
-      "name": null,
+      "name": "v7.22.0",
       "published_at": "2024-10-23T20:40:18Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.22.0.apk",
@@ -18872,9 +18872,9 @@
     },
     {
       "tag_name": "v7.21.5",
-      "name": null,
+      "name": "v7.21.5",
       "published_at": "2024-10-23T19:55:05Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.21.5.apk",
@@ -18886,9 +18886,9 @@
     },
     {
       "tag_name": "v7.21.4",
-      "name": null,
+      "name": "v7.21.4",
       "published_at": "2024-10-22T18:00:11Z",
-      "body": null,
+      "body": "no changelog",
       "assets": [
         {
           "name": "Signal-Android-website-prod-universal-release-7.21.4.apk",
@@ -18902,63 +18902,63 @@
       "tag_name": "v7.21.3",
       "name": "v7.21.3",
       "published_at": "2024-10-22T14:42:00Z",
-      "body": null,
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.21.2",
-      "name": "",
+      "name": "v7.21.2",
       "published_at": "2024-10-18T17:11:44Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.20.1",
       "name": "v7.20.1",
       "published_at": "2024-10-11T20:16:53Z",
-      "body": null,
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.20.0",
       "name": "v7.20.0",
       "published_at": "2024-10-11T01:25:50Z",
-      "body": null,
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.19.2",
-      "name": "",
+      "name": "v7.19.2",
       "published_at": "2024-10-11T01:20:29Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.19.1",
-      "name": "",
+      "name": "v7.19.1",
       "published_at": "2024-10-11T01:20:21Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.19.0",
-      "name": "",
+      "name": "v7.19.0",
       "published_at": "2024-10-11T01:20:13Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.18.2",
-      "name": "",
+      "name": "v7.18.2",
       "published_at": "2024-10-11T01:20:07Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     },
     {
       "tag_name": "v7.18.1",
-      "name": "",
+      "name": "v7.18.1",
       "published_at": "2024-10-11T01:19:56Z",
-      "body": "",
+      "body": "no changelog",
       "assets": []
     }
   ],
@@ -18978,7 +18978,7 @@
         {
           "name": "googlephotos-revanced-magisk-v7.11.0.705590205-arm64-v8a.zip",
           "size": 154524347,
-          "download_count": 317,
+          "download_count": 319,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/googlephotos-revanced-magisk-v7.11.0.705590205-arm64-v8a.zip"
         },
         {
@@ -18990,7 +18990,7 @@
         {
           "name": "googlephotos-revanced-v7.11.0.705590205-arm64-v8a.apk",
           "size": 157273359,
-          "download_count": 212,
+          "download_count": 217,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/googlephotos-revanced-v7.11.0.705590205-arm64-v8a.apk"
         },
         {
@@ -19002,25 +19002,25 @@
         {
           "name": "music-revanced-magisk-v7.29.52-arm64-v8a.zip",
           "size": 48956231,
-          "download_count": 746,
+          "download_count": 756,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/music-revanced-magisk-v7.29.52-arm64-v8a.zip"
         },
         {
           "name": "music-revanced-v7.29.52-arm-v7a.apk",
           "size": 50615192,
-          "download_count": 164,
+          "download_count": 166,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/music-revanced-v7.29.52-arm-v7a.apk"
         },
         {
           "name": "music-revanced-v7.29.52-arm64-v8a.apk",
           "size": 55083898,
-          "download_count": 564,
+          "download_count": 568,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/music-revanced-v7.29.52-arm64-v8a.apk"
         },
         {
           "name": "youtube-revanced-magisk-v19.47.53-all.zip",
           "size": 176157108,
-          "download_count": 2003,
+          "download_count": 2017,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220984/youtube-revanced-magisk-v19.47.53-all.zip"
         },
         {
@@ -19094,7 +19094,7 @@
         {
           "name": "youtube-revanced-v19.47.53-all.apk",
           "size": 106465235,
-          "download_count": 2473,
+          "download_count": 2475,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220983/youtube-revanced-v19.47.53-all.apk"
         }
       ]
@@ -19162,7 +19162,7 @@
         {
           "name": "youtube-revanced-v19.46.42-all.apk",
           "size": 106376876,
-          "download_count": 13393,
+          "download_count": 13428,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220982/youtube-revanced-v19.46.42-all.apk"
         }
       ]
@@ -19212,7 +19212,7 @@
         {
           "name": "music-revanced-v7.29.52-arm-v7a.apk",
           "size": 50594712,
-          "download_count": 11330,
+          "download_count": 11342,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220981/music-revanced-v7.29.52-arm-v7a.apk"
         },
         {
@@ -19250,7 +19250,7 @@
         {
           "name": "music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip",
           "size": 47723927,
-          "download_count": 2187,
+          "download_count": 2188,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220980/music-revanced-extended-magisk-v7.16.53-arm64-v8a.zip"
         },
         {
@@ -19268,7 +19268,7 @@
         {
           "name": "reddit-extended-revanced-extended-v2024.17.0-all.apk",
           "size": 94586689,
-          "download_count": 1280,
+          "download_count": 1281,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220980/reddit-extended-revanced-extended-v2024.17.0-all.apk"
         },
         {
@@ -19422,7 +19422,7 @@
         {
           "name": "youtube-revanced-v19.46.42-all.apk",
           "size": 105688748,
-          "download_count": 109689,
+          "download_count": 109724,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220977/youtube-revanced-v19.46.42-all.apk"
         }
       ]
@@ -19658,7 +19658,7 @@
         {
           "name": "music-revanced-magisk-v7.29.51-arm-v7a.zip",
           "size": 49400803,
-          "download_count": 1013,
+          "download_count": 1014,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220973/music-revanced-magisk-v7.29.51-arm-v7a.zip"
         },
         {
@@ -19670,7 +19670,7 @@
         {
           "name": "music-revanced-v7.29.51-arm-v7a.apk",
           "size": 50783128,
-          "download_count": 48578,
+          "download_count": 48579,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220973/music-revanced-v7.29.51-arm-v7a.apk"
         },
         {
@@ -19694,7 +19694,7 @@
         {
           "name": "youtube-revanced-v19.46.42-all.apk",
           "size": 105660076,
-          "download_count": 71397,
+          "download_count": 71398,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220973/youtube-revanced-v19.46.42-all.apk"
         }
       ]
@@ -19876,7 +19876,7 @@
         {
           "name": "music-revanced-extended-v7.16.53-arm64-v8a.apk",
           "size": 52474052,
-          "download_count": 9959,
+          "download_count": 9960,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220968/music-revanced-extended-v7.16.53-arm64-v8a.apk"
         },
         {
@@ -20008,7 +20008,7 @@
         {
           "name": "tiktok-revanced-v36.5.4-all.apk",
           "size": 419701253,
-          "download_count": 6636,
+          "download_count": 6638,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/tiktok-revanced-v36.5.4-all.apk"
         },
         {
@@ -20020,7 +20020,7 @@
         {
           "name": "twitter-revanced-v10.60.0-release.0-all.apk",
           "size": 71243423,
-          "download_count": 4093,
+          "download_count": 4094,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220965/twitter-revanced-v10.60.0-release.0-all.apk"
         },
         {
