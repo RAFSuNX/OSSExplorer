@@ -1,63 +1,65 @@
-import requests
-import json
 import os
+import json
+import requests
 
-# Paths to repos.json and releases.json
-repos_json_path = 'src/data/repos.json'
-releases_json_path = 'src/data/releases.json'
+# File paths
+REPOS_FILE = "src/data/repos.json"
+RELEASES_FILE = "src/data/releases.json"
 
-# Function to fetch releases from a repository's releases endpoint
-def get_release_data(repo_url):
-    response = requests.get(f"{repo_url}/releases")
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Failed to fetch releases for {repo_url}")
-        return []
+# Get GitHub token from environment variables
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+if not GITHUB_TOKEN:
+    raise EnvironmentError("GITHUB_TOKEN is not set. Please add it to your GitHub Actions secrets.")
 
-# Load the repo list from repos.json
-with open(repos_json_path, 'r') as f:
-    repos = json.load(f)
+# Headers for authenticated requests
+HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
-# Dictionary to store release data
-releases_data = {}
+def fetch_releases(repo_url):
+    api_url = repo_url.replace("https://github.com/", "https://api.github.com/repos/")
+    response = requests.get(f"{api_url}/releases", headers=HEADERS)
+    response.raise_for_status()
+    return response.json()
 
-# Iterate over each repository in repos.json
-for repo in repos:
-    repo_name = repo['name']
-    repo_url = repo['url']
+def main():
+    # Read the repos list
+    with open(REPOS_FILE, "r") as f:
+        repos = json.load(f)
     
-    print(f"Fetching releases for {repo_name} from {repo_url}")
-    releases = get_release_data(repo_url)
-    
-    # List to store the release details for this repository
-    releases_list = []
-    for release in releases:
-        releases_list.append({
-            "tag_name": release["tag_name"],
-            "name": release["name"],
-            "published_at": release["published_at"],
-            "body": release["body"],  # Keep the changelog as is
-            "assets": [
+    # Prepare releases data
+    releases_data = {}
+
+    for repo in repos:
+        name = repo["name"]
+        url = repo["url"]
+        print(f"Fetching releases for {name}...")
+        try:
+            releases = fetch_releases(url)
+            releases_data[name] = [
                 {
-                    "name": asset["name"],
-                    "size": asset["size"],
-                    "download_count": asset["download_count"],
-                    "browser_download_url": asset["browser_download_url"]
+                    "tag_name": release["tag_name"],
+                    "name": release["name"],
+                    "published_at": release["published_at"],
+                    "body": release["body"],
+                    "assets": [
+                        {
+                            "name": asset["name"],
+                            "size": asset["size"],
+                            "download_count": asset["download_count"],
+                            "browser_download_url": asset["browser_download_url"],
+                        }
+                        for asset in release.get("assets", [])
+                    ],
                 }
-                for asset in release["assets"]
+                for release in releases
             ]
-        })
-    
-    # Store the release data along with description and categories
-    releases_data[repo_name] = {
-        "description": repo['description'],
-        "categories": repo['categories'],
-        "releases": releases_list
-    }
+        except Exception as e:
+            print(f"Failed to fetch releases for {name}: {e}")
 
-# Save the updated releases data to releases.json
-with open(releases_json_path, 'w') as f:
-    json.dump(releases_data, f, indent=2)
+    # Write the releases data
+    os.makedirs(os.path.dirname(RELEASES_FILE), exist_ok=True)
+    with open(RELEASES_FILE, "w") as f:
+        json.dump(releases_data, f, indent=2)
+    print("Releases data updated.")
 
-print(f"Releases data updated and saved to {releases_json_path}")
+if __name__ == "__main__":
+    main()

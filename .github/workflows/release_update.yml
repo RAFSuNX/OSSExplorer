@@ -1,9 +1,9 @@
-name: Update Releases JSON
+name: Update Releases
 
 on:
   schedule:
-    - cron: "0 0 * * *" # This runs the workflow every 24 hours (UTC time)
-  workflow_dispatch: # Allows you to manually trigger the workflow from GitHub Actions UI
+    - cron: "0 0 * * *" # Every 24 hours
+  workflow_dispatch:
 
 jobs:
   update-releases:
@@ -11,26 +11,17 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Set up Python environment
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.9" # You can use any version you need
+          python-version: 3.x
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install -r scripts/requirements.txt
 
-      - name: Run the Python script to update releases.json
-        run: |
-          python scripts/generate_releases_json.py
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add src/data/releases.json
-          git commit -m "Update releases.json"
-          git push
+      - name: Update releases.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_releases_json.py
