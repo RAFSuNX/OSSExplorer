@@ -12,6 +12,12 @@
     "categories": ["kernel", "rooting"]
   },
   {
+    "name": "Signal",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "description": "Signal is a simple, powerful, and secure messenger.",
+    "categories": ["Communication"]
+  },
+  {
     "name": "Revanced Builder",
     "url": "https://github.com/j-hc/revanced-magisk-module",
     "description": "A builder for Revanced modules.",
