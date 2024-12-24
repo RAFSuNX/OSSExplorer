@@ -35,11 +35,17 @@ for repo_info in repos:
 
     # Process the releases data
     for release in releases:
+        # Use the tag_name as the release name if name is missing
+        release_name = release.get("name", release["tag_name"])
+
+        # Only add the body (changelog) if it exists, otherwise, set it to an empty string
+        release_body = release.get("body", "")
+
         release_info = {
             "tag_name": release["tag_name"],
-            "name": release["name"],
+            "name": release_name,
             "published_at": release["published_at"],
-            "body": release["body"],  # Changelog
+            "body": release_body,  # Changelog (may be empty)
             "assets": []
         }
         
