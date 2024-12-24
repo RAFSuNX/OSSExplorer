@@ -1,4 +1,4 @@
-# Repository Website for Open-Source Projects
+# Repository Explorer for Open-Source Projects
 
 This project provides a dynamic, user-friendly website for listing and managing open-source project repositories and their releases. The website fetches data from a manually maintained `repos.json` file and dynamically integrates with GitHub to display release details, enabling seamless navigation, search, and download functionality.
 
