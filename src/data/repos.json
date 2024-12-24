@@ -18,12 +18,6 @@
     "categories": ["Communication"]
   },
   {
-    "name": "Firefox",
-    "url": "https://github.com/mozilla/firefox",
-    "description": "Firefox is a fast, privacy-focused, and open-source web browser.",
-    "categories": ["Web Browser", "Privacy"]
-  },
-  {
     "name": "Brave",
     "url": "https://github.com/brave/brave-browser",
     "description": "Brave is a fast, privacy-first web browser with built-in ad-blocking.",
