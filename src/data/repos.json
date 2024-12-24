@@ -46,5 +46,11 @@
     "url": "https://github.com/j-hc/revanced-magisk-module",
     "description": "A builder for Revanced modules.",
     "categories": ["Revanced", "builder"]
+  },
+  {
+    "name": "San Kernel Releases",
+    "url": "https://github.com/user-why-red/san_kernel_releases",
+    "description": "San Kernel Releases provides custom kernel builds for enhanced performance and features on Android devices.",
+    "categories": ["Android", "Kernel", "Whyred", "Tulip", "SDM660"]
   }
 ]

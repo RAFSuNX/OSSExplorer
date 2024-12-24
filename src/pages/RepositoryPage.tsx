@@ -5,6 +5,8 @@ import { Repository, Release } from '../types';
 import { ReleaseCard } from '../components/ReleaseCard';
 import { AppIcon } from '../components/AppIcon';
 import { CategoryChip } from '../components/CategoryChip';
+import { FileTypeFilter } from '../components/FileTypeFilter';
+import { getFileExtension } from '../lib/fileTypes';
 import repos from '../data/repos.json';
 import releasesData from '../data/releases.json';
 
@@ -14,6 +16,7 @@ export function RepositoryPage() {
   const [repository, setRepository] = useState<Repository | null>(null);
   const [releases, setReleases] = useState<Release[]>([]);
   const [loading, setLoading] = useState(true);
+  const [selectedFileType, setSelectedFileType] = useState('');
 
   useEffect(() => {
     const repo = repos.find((r) => r.name === name);
@@ -24,6 +27,13 @@ export function RepositoryPage() {
       setLoading(false);
     }
   }, [name]);
+
+  const filteredReleases = releases.map(release => ({
+    ...release,
+    assets: release.assets.filter(asset => 
+      selectedFileType === '' || getFileExtension(asset.name) === selectedFileType
+    )
+  })).filter(release => release.assets.length > 0);
 
   if (!repository) {
     return (
@@ -68,20 +78,31 @@ export function RepositoryPage() {
           </div>
         </div>
 
+        <div className="mb-8">
+          <FileTypeFilter
+            selectedType={selectedFileType}
+            onChange={setSelectedFileType}
+          />
+        </div>
+
         {loading ? (
           <div className="text-center py-12">
             <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-red-500/40 mx-auto mb-4" />
             <p className="text-gray-400">Loading releases...</p>
           </div>
-        ) : releases.length > 0 ? (
+        ) : filteredReleases.length > 0 ? (
           <div className="space-y-8">
-            {releases.map((release) => (
+            {filteredReleases.map((release) => (
               <ReleaseCard key={release.tag_name} release={release} />
             ))}
           </div>
         ) : (
           <div className="text-center py-12">
-            <p className="text-gray-400">No releases available for this repository.</p>
+            <p className="text-gray-400">
+              {selectedFileType 
+                ? `No releases found with ${selectedFileType.toUpperCase()} files.`
+                : 'No releases available for this repository.'}
+            </p>
           </div>
         )}
       </div>

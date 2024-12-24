@@ -20,15 +20,15 @@ export function AppIcon({ name, size = 'md' }: AppIconProps) {
   const customLogo = CUSTOM_LOGOS[name];
 
   return (
-    <div className={`${sizeClasses[size]} rounded-full bg-gradient-to-br from-red-500/20 to-red-500/10 border border-red-500/20 flex items-center justify-center overflow-hidden`}>
+    <div className={`${sizeClasses[size]} flex items-center justify-center`}>
       {customLogo ? (
         <img 
           src={customLogo} 
           alt={`${name} logo`}
-          className="w-full h-full object-cover"
+          className="w-full h-full object-contain"
         />
       ) : (
-        <Package className="w-1/2 h-1/2 text-red-500" />
+        <Package className="w-full h-full text-red-500" />
       )}
     </div>
   );
