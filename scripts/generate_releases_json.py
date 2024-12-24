@@ -36,16 +36,16 @@ for repo_info in repos:
     # Process the releases data
     for release in releases:
         # Use the tag_name as the release name if name is missing
-        release_name = release.get("name", release["tag_name"])
+        release_name = release.get("name") if release.get("name") else release["tag_name"]
 
-        # Only add the body (changelog) if it exists, otherwise, set it to an empty string
-        release_body = release.get("body", "")
+        # Set body to "no changelog" if it's missing (i.e., null or missing)
+        release_body = release.get("body", "no changelog") or "no changelog"
 
         release_info = {
             "tag_name": release["tag_name"],
             "name": release_name,
             "published_at": release["published_at"],
-            "body": release_body,  # Changelog (may be empty)
+            "body": release_body,  # Changelog (ensure no null value)
             "assets": []
         }
         
