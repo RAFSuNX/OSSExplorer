@@ -2,6 +2,7 @@ import React from 'react';
 import { RepositoryCard } from '../components/RepositoryCard';
 import { SearchBar } from '../components/SearchBar';
 import { Footer } from '../components/Footer';
+import { ContactBanner } from '../components/ContactBanner';
 import { useSearch } from '../hooks/useSearch';
 import repos from '../data/repos.json';
 import { getThemeClass, getTextClass } from '../lib/theme';
@@ -11,6 +12,7 @@ export function HomePage() {
 
   return (
     <div className={`min-h-screen ${getThemeClass('background', 'bg')} flex flex-col`}>
+      <ContactBanner />
       <div className="flex-1">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <h1 className={`text-4xl font-bold ${getTextClass('light')} text-center mb-4`}>
