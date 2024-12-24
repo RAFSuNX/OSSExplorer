@@ -23,6 +23,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests  # Install necessary packages
 
+      - name: Set up GitHub Token for API requests
+        run: echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+        # This ensures the GITHUB_TOKEN is available to the Python script
+
       - name: Update releases.json
         run: python scripts/generate_releases_json.py # Path to your Python script
 
