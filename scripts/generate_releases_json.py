@@ -1,65 +1,42 @@
-import os
 import json
 import requests
+import os
 
-# File paths
-REPOS_FILE = "src/data/repos.json"
-RELEASES_FILE = "src/data/releases.json"
+# Load the repo list from repos.json
+with open('src/data/repos.json', 'r') as f:
+    repos = json.load(f)
 
-# Get GitHub token from environment variables
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-if not GITHUB_TOKEN:
-    raise EnvironmentError("GITHUB_TOKEN is not set. Please add it to your GitHub Actions secrets.")
+# Initialize a dictionary to hold the releases
+releases = {}
 
-# Headers for authenticated requests
-HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
-
-def fetch_releases(repo_url):
-    api_url = repo_url.replace("https://github.com/", "https://api.github.com/repos/")
-    response = requests.get(f"{api_url}/releases", headers=HEADERS)
-    response.raise_for_status()
-    return response.json()
-
-def main():
-    # Read the repos list
-    with open(REPOS_FILE, "r") as f:
-        repos = json.load(f)
+# Fetch release data for each repo
+for repo in repos:
+    releases[repo['name']] = []
+    # Construct the API URL for releases
+    releases_url = f"{repo['url']}/releases"
+    response = requests.get(releases_url)
     
-    # Prepare releases data
-    releases_data = {}
+    if response.status_code == 200:
+        releases_data = response.json()  # Parse the releases data
+        for release in releases_data:
+            release_info = {
+                'tag_name': release['tag_name'],
+                'name': release['name'],
+                'published_at': release['published_at'],
+                'body': release['body'],
+                'assets': [{'name': asset['name'], 
+                            'download_count': asset['download_count'], 
+                            'browser_download_url': asset['browser_download_url']} 
+                           for asset in release['assets']]
+            }
+            releases[repo['name']].append(release_info)
 
-    for repo in repos:
-        name = repo["name"]
-        url = repo["url"]
-        print(f"Fetching releases for {name}...")
-        try:
-            releases = fetch_releases(url)
-            releases_data[name] = [
-                {
-                    "tag_name": release["tag_name"],
-                    "name": release["name"],
-                    "published_at": release["published_at"],
-                    "body": release["body"],
-                    "assets": [
-                        {
-                            "name": asset["name"],
-                            "size": asset["size"],
-                            "download_count": asset["download_count"],
-                            "browser_download_url": asset["browser_download_url"],
-                        }
-                        for asset in release.get("assets", [])
-                    ],
-                }
-                for release in releases
-            ]
-        except Exception as e:
-            print(f"Failed to fetch releases for {name}: {e}")
+# Define the file path where releases.json will be saved
+output_path = 'src/data/releases.json'
 
-    # Write the releases data
-    os.makedirs(os.path.dirname(RELEASES_FILE), exist_ok=True)
-    with open(RELEASES_FILE, "w") as f:
-        json.dump(releases_data, f, indent=2)
-    print("Releases data updated.")
+# Write the updated releases data to releases.json
+with open(output_path, 'w') as f:
+    json.dump(releases, f, indent=2)
 
-if __name__ == "__main__":
-    main()
+# Optionally, print a message to confirm
+print(f"Updated releases data has been written to {output_path}")

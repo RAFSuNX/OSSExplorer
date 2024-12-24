@@ -2,26 +2,34 @@ name: Update Releases
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every 24 hours
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-releases:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04 # You can adjust the runner version if necessary
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3 # Checkout the repository
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: 3.x # Use Python 3.x
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests  # Install necessary packages
 
       - name: Update releases.json
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_releases_json.py
+        run: python src/scripts/generate_releases_json.py # Path to your Python script
+
+      - name: Commit changes to releases.json
+        run: |
+          git config --global user.email "git@rafsunx.com"  # Replace with your email
+          git config --global user.name "RAFSuNX"  # Replace with your name
+          git add src/data/releases.json  # Add the updated releases.json
+          git commit -m "Update releases.json"  # Commit the changes
+          git push origin main  # Push changes to the repository (adjust branch if needed)
