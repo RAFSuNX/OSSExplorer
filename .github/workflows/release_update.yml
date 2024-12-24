@@ -24,7 +24,7 @@ jobs:
           pip install requests  # Install necessary packages
 
       - name: Update releases.json
-        run: python src/scripts/generate_releases_json.py # Path to your Python script
+        run: python scripts/generate_releases_json.py # Path to your Python script
 
       - name: Commit changes to releases.json
         run: |
