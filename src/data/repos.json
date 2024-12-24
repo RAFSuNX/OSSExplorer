@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Magisk",
+    "url": "https://github.com/topjohnwu/magisk",
+    "description": "A tool to manage root permissions.",
+    "categories": ["rooting", "android"]
+  },
+  {
+    "name": "KernelSU",
+    "url": "https://github.com/tiann/KernelSU",
+    "description": "An Android kernel-based root solution.",
+    "categories": ["kernel", "rooting"]
+  },
+  {
+    "name": "Revanced Builder",
+    "url": "https://github.com/j-hc/revanced-magisk-module",
+    "description": "A builder for Revanced modules.",
+    "categories": ["android", "builder"]
+  }
+]

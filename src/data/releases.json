@@ -1,0 +1,76 @@
+{
+  "Magisk": [
+    {
+      "tag_name": "v25.2",
+      "name": "Magisk v25.2",
+      "published_at": "2024-03-15T00:00:00Z",
+      "body": "This release brings several important updates and improvements:\n\n• Added full support for Android 12\n• Fixed SafetyNet attestation issues\n• Improved MagiskHide stability\n• Updated MagiskBoot for better compatibility\n• Various bug fixes and performance improvements",
+      "assets": [
+        {
+          "name": "Magisk-v25.2.apk",
+          "size": 5452595,
+          "download_count": 12345,
+          "browser_download_url": "https://github.com/topjohnwu/magisk/releases/download/v25.2/Magisk-v25.2.apk"
+        },
+        {
+          "name": "Magisk-v25.2.zip",
+          "size": 7123456,
+          "download_count": 8940,
+          "browser_download_url": "https://github.com/topjohnwu/magisk/releases/download/v25.2/Magisk-v25.2.zip"
+        }
+      ]
+    },
+    {
+      "tag_name": "v25.1",
+      "name": "Magisk v25.1",
+      "published_at": "2024-02-28T00:00:00Z",
+      "body": "Maintenance release with important fixes:\n\n• Fixed bootloop issues on some devices\n• Improved module mounting system\n• Updated internal BusyBox to latest version\n• Better error handling and logging",
+      "assets": [
+        {
+          "name": "Magisk-v25.1.apk",
+          "size": 5352595,
+          "download_count": 234567,
+          "browser_download_url": "https://github.com/topjohnwu/magisk/releases/download/v25.1/Magisk-v25.1.apk"
+        },
+        {
+          "name": "Magisk-v25.1.zip",
+          "size": 7023456,
+          "download_count": 123456,
+          "browser_download_url": "https://github.com/topjohnwu/magisk/releases/download/v25.1/Magisk-v25.1.zip"
+        }
+      ]
+    }
+  ],
+  "KernelSU": [
+    {
+      "tag_name": "v0.7.5",
+      "name": "KernelSU v0.7.5",
+      "published_at": "2024-03-10T00:00:00Z",
+      "body": "Major update with new features:\n\n• Added support for Android 14\n• Improved kernel patch compatibility\n• Enhanced module system\n• Better SELinux handling\n• Various stability improvements",
+      "assets": [
+        {
+          "name": "KernelSU-v0.7.5.zip",
+          "size": 4567890,
+          "download_count": 45678,
+          "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.5/KernelSU-v0.7.5.zip"
+        }
+      ]
+    }
+  ],
+  "Revanced Builder": [
+    {
+      "tag_name": "v3.2.0",
+      "name": "Revanced Builder v3.2.0",
+      "published_at": "2024-03-05T00:00:00Z",
+      "body": "New release with important updates:\n\n• Updated patches for latest app versions\n• Added new customization options\n• Improved build process\n• Fixed compatibility issues\n• Better error reporting",
+      "assets": [
+        {
+          "name": "revanced-builder-v3.2.0.zip",
+          "size": 3456789,
+          "download_count": 34567,
+          "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/v3.2.0/revanced-builder-v3.2.0.zip"
+        }
+      ]
+    }
+  ]
+}
