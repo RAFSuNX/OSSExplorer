@@ -39,7 +39,7 @@ for repo_info in repos:
         release_name = release.get("name") if release.get("name") else release["tag_name"]
 
         # Set body to "no changelog" if it's missing (i.e., null or missing)
-        release_body = release.get("body", "no changelog") or "no changelog"
+        release_body = release.get("body", "no changelog provided") or "no changelog provided"
 
         release_info = {
             "tag_name": release["tag_name"],
