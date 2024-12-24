@@ -30,18 +30,6 @@
     "categories": ["Terminal Emulator", "Android"]
   },
   {
-    "name": "Visual Studio Code",
-    "url": "https://github.com/microsoft/vscode",
-    "description": "A code editor redefined and optimized for building and debugging modern web and cloud applications.",
-    "categories": ["Development Tools", "IDE"]
-  },
-  {
-    "name": "React",
-    "url": "https://github.com/facebook/react",
-    "description": "A JavaScript library for building user interfaces.",
-    "categories": ["Web Frameworks", "Frontend"]
-  },
-  {
     "name": "Revanced Builds - J-HC",
     "url": "https://github.com/j-hc/revanced-magisk-module",
     "description": "A builder for Revanced modules.",
