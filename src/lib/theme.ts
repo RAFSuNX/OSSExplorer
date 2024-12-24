@@ -2,7 +2,7 @@
 export const theme = {
   colors: {
     primary: {
-      base: 'red',
+      base: 'violet',
       shade: '500'
     },
     background: {
@@ -24,7 +24,6 @@ export const theme = {
 
 export type ThemeColor = keyof typeof theme.colors;
 
-// Generate Tailwind classes based on theme
 export const getThemeClass = (
   type: ThemeColor,
   variant: 'bg' | 'text' | 'border' = 'bg',
@@ -35,7 +34,6 @@ export const getThemeClass = (
   return `${variant}-${color.base}-${color.shade}${opacityValue}`;
 };
 
-// Text color utilities
 export const getTextClass = (variant: 'light' | 'dark' | 'muted') => {
   return `text-${theme.colors.text[variant]}`;
 };

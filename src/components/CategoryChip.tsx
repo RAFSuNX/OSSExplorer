@@ -6,7 +6,7 @@ interface CategoryChipProps {
 
 export function CategoryChip({ category }: CategoryChipProps) {
   return (
-    <span className="px-2.5 py-1 text-xs rounded-full font-medium bg-red-500/10 text-red-400 border border-red-500/20">
+    <span className="px-2.5 py-1 text-xs rounded-full font-medium bg-violet-500/10 text-violet-400 border border-violet-500/20">
       {category}
     </span>
   );
