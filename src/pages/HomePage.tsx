@@ -19,7 +19,7 @@ export function HomePage() {
     <div className="min-h-screen bg-gray-950">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <h1 className="text-4xl font-bold text-white text-center mb-4">
-          Open Source Repository Hub
+          Open Source Software Explorer
         </h1>
         <p className="text-gray-400 text-center mb-12 text-lg">
           Discover and download Android development tools
