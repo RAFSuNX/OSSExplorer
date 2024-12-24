@@ -8,6 +8,7 @@ interface AppIconProps {
 
 const CUSTOM_LOGOS: Record<string, string> = {
   'KernelSU': 'https://kernelsu.org/logo.png'
+  'Magisk': 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png'
 };
 
 export function AppIcon({ name, size = 'md' }: AppIconProps) {
