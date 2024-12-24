@@ -1,61 +1,60 @@
-import json
 import requests
-import os
+import json
+from datetime import datetime
 
-# GitHub token (ensure it's set as a secret in GitHub Actions or use environment variable)
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-
-# Load the repo list from repos.json
+# Load repo data from repos.json
 with open('src/data/repos.json', 'r') as f:
     repos = json.load(f)
 
-# Initialize a dictionary to hold the releases
-releases = {}
+# GitHub API URL
+GITHUB_API_URL = "https://api.github.com/repos"
 
-# Define headers for authentication (GitHub API rate limit handling)
-headers = {
-    'Authorization': f'token {GITHUB_TOKEN}' if GITHUB_TOKEN else ''
-}
-
-# Fetch release data for each repo
-for repo in repos:
-    releases[repo['name']] = []
-    # Construct the API URL for releases
-    releases_url = f"{repo['url']}/releases"
-    print(f"Fetching releases for {repo['name']}...")
-
-    # Make the GET request with headers for authentication
-    response = requests.get(releases_url, headers=headers)
-
+# Function to fetch releases for each repository
+def fetch_releases(repo):
+    url = f"{GITHUB_API_URL}/{repo}/releases"
+    response = requests.get(url)
+    
+    # Debugging: Print the status code and the response text
+    print(f"Fetching releases for: {repo} (Status: {response.status_code})")
+    
     if response.status_code == 200:
-        try:
-            releases_data = response.json()  # Parse the releases data
-            if releases_data:  # If releases data is empty
-                for release in releases_data:
-                    release_info = {
-                        'tag_name': release['tag_name'],
-                        'name': release['name'],
-                        'published_at': release['published_at'],
-                        'body': release['body'],
-                        'assets': [{'name': asset['name'],
-                                    'download_count': asset['download_count'],
-                                    'browser_download_url': asset['browser_download_url']} 
-                                   for asset in release['assets']]
-                    }
-                    releases[repo['name']].append(release_info)
-            else:
-                print(f"No releases found for {repo['name']}.")
-        except json.JSONDecodeError:
-            print(f"Error decoding JSON for {repo['name']}. Response: {response.text}")
+        return response.json()  # Parse the response as JSON
     else:
-        print(f"Failed to fetch releases for {repo['name']}. Status code: {response.status_code}")
+        print(f"Error fetching releases for {repo}: {response.text}")
+        return []
 
-# Define the file path where releases.json will be saved
-output_path = 'src/data/releases.json'
+# Initialize a dictionary to store release data
+releases_data = {}
 
-# Write the updated releases data to releases.json
-with open(output_path, 'w') as f:
-    json.dump(releases, f, indent=2)
+# Process each repository
+for repo_info in repos:
+    repo_name = repo_info["name"]
+    print(f"Processing releases for {repo_name}...")
+    releases = fetch_releases(repo_info["url"].split('/')[-1])  # Extract repo name from URL
+    releases_data[repo_name] = []
 
-# Optionally, print a message to confirm
-print(f"Updated releases data has been written to {output_path}")
+    # Process the releases data
+    for release in releases:
+        release_info = {
+            "tag_name": release["tag_name"],
+            "name": release["name"],
+            "published_at": release["published_at"],
+            "body": release["body"],  # Changelog
+            "assets": []
+        }
+        
+        for asset in release.get("assets", []):
+            release_info["assets"].append({
+                "name": asset["name"],
+                "size": asset["size"],
+                "download_count": asset["download_count"],
+                "browser_download_url": asset["browser_download_url"]
+            })
+        
+        releases_data[repo_name].append(release_info)
+
+# Save the releases data to releases.json
+with open('src/data/releases.json', 'w') as f:
+    json.dump(releases_data, f, indent=2)
+
+print("Releases data updated successfully!")
