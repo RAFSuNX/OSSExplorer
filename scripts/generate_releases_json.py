@@ -1,6 +1,5 @@
 import requests
 import json
-from datetime import datetime
 
 # Load repo data from repos.json
 with open('src/data/repos.json', 'r') as f:
@@ -29,8 +28,9 @@ releases_data = {}
 # Process each repository
 for repo_info in repos:
     repo_name = repo_info["name"]
+    repo_url = repo_info["url"].split("https://github.com/")[1]  # Extract owner/repository_name
     print(f"Processing releases for {repo_name}...")
-    releases = fetch_releases(repo_info["url"].split('/')[-1])  # Extract repo name from URL
+    releases = fetch_releases(repo_url)  # Pass the owner/repository_name format
     releases_data[repo_name] = []
 
     # Process the releases data

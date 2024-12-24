@@ -30,3 +30,5 @@ yarn-error.log*
 
 # Bolt
 .bolt
+
+src/data/releases.json
