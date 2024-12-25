@@ -1,5 +1,6 @@
 import React from 'react';
 import { Package } from 'lucide-react';
+import { LazyImage } from './LazyImage';
 
 interface AppIconProps {
   name: string;
@@ -7,7 +8,12 @@ interface AppIconProps {
 }
 
 const CUSTOM_LOGOS: Record<string, string> = {
-  'KernelSU': 'https://kernelsu.org/logo.png'
+  'KernelSU': 'https://kernelsu.org/logo.png',
+  'Magisk': 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png',
+  'Signal': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/900px-Signal-Logo.svg.png',
+  'Brave': 'https://avatars.githubusercontent.com/u/12301619?s=200&v=4',
+  'Termux Monet': 'https://avatars.githubusercontent.com/u/173825319?s=200&v=4',
+  'Revanced Builds - J-HC': 'https://avatars.githubusercontent.com/u/101597779?s=200&v=4'
 };
 
 export function AppIcon({ name, size = 'md' }: AppIconProps) {
@@ -22,10 +28,10 @@ export function AppIcon({ name, size = 'md' }: AppIconProps) {
   return (
     <div className={`${sizeClasses[size]} flex items-center justify-center`}>
       {customLogo ? (
-        <img 
+        <LazyImage 
           src={customLogo} 
           alt={`${name} logo`}
-          className="w-full h-full object-contain"
+          className="w-full h-full object-contain rounded-lg"
         />
       ) : (
         <Package className="w-full h-full text-red-500" />

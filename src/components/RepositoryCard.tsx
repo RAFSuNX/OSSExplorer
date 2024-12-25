@@ -1,20 +1,26 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { motion } from 'framer-motion';
 import { Repository } from '../types';
 import { AppIcon } from './AppIcon';
 import { CategoryChip } from './CategoryChip';
 
 interface RepositoryCardProps {
   repository: Repository;
+  index: number;
 }
 
-export function RepositoryCard({ repository }: RepositoryCardProps) {
+export function RepositoryCard({ repository, index }: RepositoryCardProps) {
   const navigate = useNavigate();
 
   return (
-    <div
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ delay: index * 0.1 }}
+      whileHover={{ scale: 1.02 }}
       onClick={() => navigate(`/repository/${encodeURIComponent(repository.name)}`)}
-      className="bg-gray-900/80 border-2 border-red-500/20 hover:border-red-500/40 rounded-xl p-6 transition-all duration-200 hover:scale-[1.02] cursor-pointer shadow-lg hover:shadow-red-500/5"
+      className="bg-gray-900/80 border-2 border-red-500/20 hover:border-red-500/40 rounded-xl p-6 transition-all duration-200 cursor-pointer shadow-lg hover:shadow-red-500/5"
     >
       <div className="flex items-start gap-4">
         <AppIcon name={repository.name} />
@@ -28,6 +34,6 @@ export function RepositoryCard({ repository }: RepositoryCardProps) {
           </div>
         </div>
       </div>
-    </div>
+    </motion.div>
   );
 }

@@ -8,10 +8,10 @@ export function ContactBanner() {
         <p className="text-center text-gray-300">
           Want to add your repository? Contact us at{' '}
           <a 
-            href="mailto:git@rafsunx.com" 
+            href="mailto:contact@rafsunx.com" 
             className="text-violet-400 hover:text-violet-300 transition-colors"
           >
-            git@rafsunx.com
+            contact@rafsunx.com
           </a>
           {' '}or Telegram{' '}
           <a 
