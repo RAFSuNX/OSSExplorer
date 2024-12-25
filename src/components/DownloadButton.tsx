@@ -10,24 +10,23 @@ interface DownloadButtonProps {
 export function DownloadButton({ url, fileName }: DownloadButtonProps) {
   const [isLoading, setIsLoading] = useState(false);
 
-  const handleDownload = async () => {
+  const handleDownload = () => {
     setIsLoading(true);
-    try {
-      const response = await fetch(url);
-      const blob = await response.blob();
-      const downloadUrl = window.URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = downloadUrl;
-      link.download = fileName;
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-      window.URL.revokeObjectURL(downloadUrl);
-    } catch (error) {
-      console.error('Download failed:', error);
-    } finally {
+    
+    // Create a link element
+    const link = document.createElement('a');
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.download = fileName;
+    
+    // Click the link
+    link.click();
+    
+    // Reset loading state after a short delay
+    setTimeout(() => {
       setIsLoading(false);
-    }
+    }, 1000);
   };
 
   return (
