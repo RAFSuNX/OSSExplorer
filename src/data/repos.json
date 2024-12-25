@@ -12,6 +12,12 @@
     "categories": ["kernel", "rooting"]
   },
   {
+    "name": "ProtonVPN",
+    "url": "https://github.com/ProtonVPN/android-app",
+    "description": "The ProtonVPN Android App is an open-source VPN application that prioritizes privacy and security.",
+    "categories": ["VPN", "Privacy", "Android"]
+  },
+  {
     "name": "Signal",
     "url": "https://github.com/signalapp/Signal-Android",
     "description": "Signal is a simple, powerful, and secure messenger.",
