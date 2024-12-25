@@ -1,4 +1,4 @@
-import React, { Suspense, memo } from 'react';
+import React, { Suspense, memo, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
 import { AnimatePresence } from 'framer-motion';
@@ -13,6 +13,8 @@ import { SearchInput } from '../components/SearchInput';
 import { ReleaseList } from '../components/ReleaseList';
 import { useRepository } from '../hooks/useRepository';
 import { useFilteredReleases } from '../hooks/useFilteredReleases';
+import { useDefaultFileType } from '../hooks/useDefaultFileType';
+import { FileExtension } from '../constants/fileTypes';
 
 const RepositoryHeader = memo(function RepositoryHeader({ 
   name, 
@@ -45,7 +47,8 @@ export function RepositoryPage() {
   const { name } = useParams<{ name: string }>();
   const navigate = useNavigate();
   const { repository, releases, loading, error } = useRepository(name);
-  const [selectedFileType, setSelectedFileType] = React.useState('');
+  const defaultFileType = useDefaultFileType(releases);
+  const [selectedFileType, setSelectedFileType] = React.useState<FileExtension | ''>('');
   const [searchTerm, setSearchTerm] = React.useState('');
   
   const { filteredReleases, isFiltering } = useFilteredReleases(
@@ -53,6 +56,12 @@ export function RepositoryPage() {
     selectedFileType,
     searchTerm
   );
+
+  useEffect(() => {
+    if (releases.length > 0) {
+      setSelectedFileType(defaultFileType);
+    }
+  }, [releases, defaultFileType]);
 
   if (error) {
     return (

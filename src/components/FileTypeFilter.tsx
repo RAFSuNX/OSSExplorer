@@ -1,10 +1,11 @@
 import React from 'react';
 import { Filter } from 'lucide-react';
 import { FILE_TYPES } from '../lib/fileTypes';
+import { FileExtension } from '../constants/fileTypes';
 
 interface FileTypeFilterProps {
-  selectedType: string;
-  onChange: (type: string) => void;
+  selectedType: FileExtension | '';
+  onChange: (type: FileExtension | '') => void;
 }
 
 export function FileTypeFilter({ selectedType, onChange }: FileTypeFilterProps) {
@@ -13,7 +14,7 @@ export function FileTypeFilter({ selectedType, onChange }: FileTypeFilterProps) 
       <Filter className="w-5 h-5 text-gray-500" />
       <select
         value={selectedType}
-        onChange={(e) => onChange(e.target.value)}
+        onChange={(e) => onChange(e.target.value as FileExtension | '')}
         className="w-full bg-gray-900 border border-violet-500/20 rounded-lg px-3 py-2 text-white focus:outline-none focus:border-violet-500/40"
       >
         <option value="">All File Types</option>
