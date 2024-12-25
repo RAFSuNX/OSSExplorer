@@ -2,11 +2,13 @@ import React from 'react';
 import { Tag } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { Release, Asset } from '../types';
-import { formatBytes, formatDate } from '../lib/utils';
+import { formatBytes } from '../lib/utils';
 import { AssetTypeBadge } from './AssetTypeBadge';
 import { ArchitectureBadge } from './ArchitectureBadge';
 import { ChangelogRenderer } from './ChangelogRenderer';
 import { DownloadButton } from './DownloadButton';
+import { DateTime } from './ui/DateTime';
+import { formatFileName } from '../lib/utils/fileName';
 
 interface AssetRowProps {
   asset: Asset;
@@ -23,7 +25,7 @@ function AssetRow({ asset, index }: AssetRowProps) {
     >
       <div className="min-w-0">
         <div className="font-medium flex items-center gap-2 flex-wrap text-gray-200">
-          <span className="truncate">{asset.name}</span>
+          <span className="truncate">{formatFileName(asset.name)}</span>
           <div className="flex gap-2">
             <AssetTypeBadge filename={asset.name} />
             <ArchitectureBadge filename={asset.name} />
@@ -48,9 +50,7 @@ export function ReleaseCard({ release }: { release: Release }) {
       <div className="flex items-center gap-3 mb-6">
         <Tag className="w-5 h-5 text-violet-400" />
         <h2 className="text-xl font-semibold text-white">{release.name}</h2>
-        <span className="text-sm text-gray-400 ml-auto">
-          {formatDate(release.published_at)}
-        </span>
+        <DateTime date={release.published_at} className="ml-auto" />
       </div>
       
       <div className="bg-gray-950 border border-violet-500/10 rounded-lg p-5 mb-6">
