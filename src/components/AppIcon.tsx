@@ -13,7 +13,7 @@ const CUSTOM_LOGOS: Record<string, string> = {
   'Signal': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/900px-Signal-Logo.svg.png',
   'Brave': 'https://avatars.githubusercontent.com/u/12301619?s=200&v=4',
   'Termux Monet': 'https://avatars.githubusercontent.com/u/173825319?s=200&v=4',
-  'Revanced Builds - J-HC': 'https://avatars.githubusercontent.com/u/101597779?s=200&v=4'
+  'Revanced Builds - J-HC': 'https://avatars.githubusercontent.com/u/101597779?s=200&v=4',
   'ProtonVPN': 'https://vpncdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg'
 };
 
