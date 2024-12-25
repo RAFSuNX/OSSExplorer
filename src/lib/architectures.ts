@@ -5,11 +5,31 @@ export interface Architecture {
 }
 
 export const ARCHITECTURES: Architecture[] = [
-  { pattern: /arm64|aarch64/i, name: 'ARM64', description: '64-bit ARM' },
-  { pattern: /armeabi|armv7/i, name: 'ARM', description: '32-bit ARM' },
-  { pattern: /x86_64|amd64/i, name: 'x64', description: '64-bit x86' },
-  { pattern: /x86|i386/i, name: 'x86', description: '32-bit x86' },
-  { pattern: /universal/i, name: 'Universal', description: 'All architectures' }
+  { 
+    pattern: /arm64|aarch64/i, 
+    name: 'ARM64', 
+    description: '64-bit ARM architecture'
+  },
+  {
+    pattern: /armeabi|armv7|arm32|arm(?!64)/i,
+    name: 'ARM',
+    description: '32-bit ARM architecture'
+  },
+  {
+    pattern: /x86_64|amd64/i,
+    name: 'x64',
+    description: '64-bit x86 architecture'
+  },
+  {
+    pattern: /x86|i386|i686/i,
+    name: 'x86',
+    description: '32-bit x86 architecture'
+  },
+  {
+    pattern: /universal|all/i,
+    name: 'Universal',
+    description: 'All architectures supported'
+  }
 ];
 
 export function detectArchitecture(filename: string): Architecture | null {

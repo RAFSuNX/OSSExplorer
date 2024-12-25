@@ -27,8 +27,8 @@ function AssetRow({ asset, index }: AssetRowProps) {
         <div className="font-medium flex items-center gap-2 flex-wrap text-gray-200">
           <span className="truncate">{formatFileName(asset.name)}</span>
           <div className="flex gap-2">
-            <AssetTypeBadge filename={asset.name} />
             <ArchitectureBadge filename={asset.name} />
+            <AssetTypeBadge filename={asset.name} />
           </div>
         </div>
         <div className="text-sm text-gray-400 mt-1">
