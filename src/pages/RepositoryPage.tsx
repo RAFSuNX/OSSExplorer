@@ -1,9 +1,7 @@
-import React, { Suspense } from 'react';
+import React, { Suspense, memo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft, Search } from 'lucide-react';
+import { ArrowLeft } from 'lucide-react';
 import { AnimatePresence } from 'framer-motion';
-import { Repository, Release } from '../types';
-import { ReleaseCard } from '../components/ReleaseCard';
 import { AppIcon } from '../components/AppIcon';
 import { CategoryChip } from '../components/CategoryChip';
 import { FileTypeFilter } from '../components/FileTypeFilter';
@@ -11,8 +9,37 @@ import { Footer } from '../components/Footer';
 import { LoadingSpinner } from '../components/LoadingSpinner';
 import { ErrorState } from '../components/ErrorState';
 import { PageTransition } from '../components/PageTransition';
+import { SearchInput } from '../components/SearchInput';
+import { ReleaseList } from '../components/ReleaseList';
 import { useRepository } from '../hooks/useRepository';
-import { getFileExtension } from '../lib/fileTypes';
+import { useFilteredReleases } from '../hooks/useFilteredReleases';
+
+const RepositoryHeader = memo(function RepositoryHeader({ 
+  name, 
+  description, 
+  categories 
+}: { 
+  name: string; 
+  description: string; 
+  categories: string[]; 
+}) {
+  return (
+    <div className="bg-gray-900/80 border-2 border-violet-500/20 rounded-xl p-8 backdrop-blur-sm">
+      <div className="flex items-center gap-6">
+        <AppIcon name={name} size="lg" />
+        <div>
+          <h1 className="text-3xl font-bold text-white mb-3">{name}</h1>
+          <p className="text-gray-400 text-lg">{description}</p>
+          <div className="flex flex-wrap gap-2 mt-4">
+            {categories.map((category) => (
+              <CategoryChip key={category} category={category} />
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+});
 
 export function RepositoryPage() {
   const { name } = useParams<{ name: string }>();
@@ -20,21 +47,12 @@ export function RepositoryPage() {
   const { repository, releases, loading, error } = useRepository(name);
   const [selectedFileType, setSelectedFileType] = React.useState('');
   const [searchTerm, setSearchTerm] = React.useState('');
-
-  const filteredReleases = React.useMemo(() => {
-    if (!releases) return [];
-    return releases
-      .map(release => ({
-        ...release,
-        assets: release.assets.filter(asset => {
-          const matchesType = selectedFileType === '' || getFileExtension(asset.name) === selectedFileType;
-          const matchesSearch = searchTerm === '' || 
-            asset.name.toLowerCase().includes(searchTerm.toLowerCase());
-          return matchesType && matchesSearch;
-        })
-      }))
-      .filter(release => release.assets.length > 0);
-  }, [releases, selectedFileType, searchTerm]);
+  
+  const { filteredReleases, isFiltering } = useFilteredReleases(
+    releases,
+    selectedFileType,
+    searchTerm
+  );
 
   if (error) {
     return (
@@ -72,37 +90,22 @@ export function RepositoryPage() {
               </button>
 
               {loading ? (
-                <LoadingSpinner />
+                <LoadingSpinner message="Loading repository details..." />
               ) : repository ? (
-                <Suspense fallback={<LoadingSpinner />}>
+                <Suspense fallback={<LoadingSpinner message="Loading releases..." />}>
                   <div className="space-y-8">
-                    <div className="bg-gray-900/80 border-2 border-violet-500/20 rounded-xl p-8 backdrop-blur-sm">
-                      <div className="flex items-center gap-6">
-                        <AppIcon name={repository.name} size="lg" />
-                        <div>
-                          <h1 className="text-3xl font-bold text-white mb-3">{repository.name}</h1>
-                          <p className="text-gray-400 text-lg">{repository.description}</p>
-                          <div className="flex flex-wrap gap-2 mt-4">
-                            {repository.categories.map((category) => (
-                              <CategoryChip key={category} category={category} />
-                            ))}
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <RepositoryHeader 
+                      name={repository.name}
+                      description={repository.description}
+                      categories={repository.categories}
+                    />
 
                     <div className="flex flex-col sm:flex-row gap-4">
                       <div className="flex-1">
-                        <div className="relative">
-                          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500 w-5 h-5" />
-                          <input
-                            type="text"
-                            value={searchTerm}
-                            onChange={(e) => setSearchTerm(e.target.value)}
-                            placeholder="Search files..."
-                            className="w-full pl-10 pr-4 py-2 bg-gray-900 border border-violet-500/20 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-violet-500/40"
-                          />
-                        </div>
+                        <SearchInput
+                          value={searchTerm}
+                          onChange={setSearchTerm}
+                        />
                       </div>
                       <div className="w-full sm:w-64">
                         <FileTypeFilter
@@ -112,20 +115,10 @@ export function RepositoryPage() {
                       </div>
                     </div>
 
-                    {filteredReleases.length > 0 ? (
-                      <div className="space-y-8">
-                        {filteredReleases.map((release) => (
-                          <ReleaseCard key={release.tag_name} release={release} />
-                        ))}
-                      </div>
-                    ) : (
-                      <ErrorState
-                        title="No releases found"
-                        message={selectedFileType 
-                          ? `No releases found with ${selectedFileType.toUpperCase()} files.`
-                          : 'No releases available for this repository.'}
-                      />
-                    )}
+                    <ReleaseList 
+                      releases={filteredReleases}
+                      isFiltering={isFiltering}
+                    />
                   </div>
                 </Suspense>
               ) : null}

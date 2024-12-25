@@ -31,10 +31,10 @@ export function HomePage() {
                 <SearchBar value={searchTerm} onChange={setSearchTerm} />
               </div>
 
-              <Suspense fallback={<LoadingSpinner />}>
+              <Suspense fallback={<LoadingSpinner message="Loading repositories..." />}>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {searchResults.map((repo) => (
-                    <RepositoryCard key={repo.name} repository={repo} />
+                  {searchResults.map((repo, index) => (
+                    <RepositoryCard key={repo.name} repository={repo} index={index} />
                   ))}
                 </div>
 

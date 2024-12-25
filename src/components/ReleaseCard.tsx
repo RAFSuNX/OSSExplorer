@@ -1,11 +1,12 @@
 import React from 'react';
-import { Tag, Download } from 'lucide-react';
+import { Tag } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { Release, Asset } from '../types';
 import { formatBytes, formatDate } from '../lib/utils';
 import { AssetTypeBadge } from './AssetTypeBadge';
 import { ArchitectureBadge } from './ArchitectureBadge';
 import { ChangelogRenderer } from './ChangelogRenderer';
+import { DownloadButton } from './DownloadButton';
 
 interface AssetRowProps {
   asset: Asset;
@@ -32,15 +33,7 @@ function AssetRow({ asset, index }: AssetRowProps) {
           {formatBytes(asset.size)} • {asset.download_count.toLocaleString()} downloads
         </div>
       </div>
-      <motion.a
-        whileHover={{ scale: 1.02 }}
-        whileTap={{ scale: 0.98 }}
-        href={asset.browser_download_url}
-        className="bg-violet-500/10 hover:bg-violet-500/20 border border-violet-500/40 hover:border-violet-500/60 text-violet-400 px-6 py-2 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 font-medium"
-      >
-        <Download className="w-4 h-4" />
-        Download
-      </motion.a>
+      <DownloadButton url={asset.browser_download_url} fileName={asset.name} />
     </motion.div>
   );
 }
