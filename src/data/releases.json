@@ -9,19 +9,19 @@
         {
           "name": "app-debug.apk",
           "size": 24586625,
-          "download_count": 6723,
+          "download_count": 6829,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.2/app-debug.apk"
         },
         {
           "name": "Magisk-v30.2.apk",
           "size": 12339254,
-          "download_count": 48328,
+          "download_count": 48847,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.2/Magisk-v30.2.apk"
         },
         {
           "name": "notes.md",
           "size": 634,
-          "download_count": 998,
+          "download_count": 1015,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.2/notes.md"
         }
       ]
@@ -35,19 +35,19 @@
         {
           "name": "app-debug.apk",
           "size": 24283338,
-          "download_count": 39057,
+          "download_count": 39097,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.1/app-debug.apk"
         },
         {
           "name": "Magisk-v30.1.apk",
           "size": 12146559,
-          "download_count": 217001,
+          "download_count": 217268,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.1/Magisk-v30.1.apk"
         },
         {
           "name": "notes.md",
           "size": 536,
-          "download_count": 94850,
+          "download_count": 95139,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.1/notes.md"
         }
       ]
@@ -61,13 +61,13 @@
         {
           "name": "app-debug.apk",
           "size": 24271050,
-          "download_count": 3461,
+          "download_count": 3462,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.0/app-debug.apk"
         },
         {
           "name": "Magisk-v30.0.apk",
           "size": 12117324,
-          "download_count": 23524,
+          "download_count": 23534,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v30.0/Magisk-v30.0.apk"
         },
         {
@@ -87,13 +87,13 @@
         {
           "name": "Magisk-v29.0.apk",
           "size": 11801932,
-          "download_count": 2267691,
+          "download_count": 2270192,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk"
         },
         {
           "name": "notes.md",
           "size": 1543,
-          "download_count": 663122,
+          "download_count": 664041,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/notes.md"
         }
       ]
@@ -113,7 +113,7 @@
         {
           "name": "app-release.apk",
           "size": 11801936,
-          "download_count": 115451,
+          "download_count": 115454,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-29001/app-release.apk"
         },
         {
@@ -139,7 +139,7 @@
         {
           "name": "app-release.apk",
           "size": 11585914,
-          "download_count": 84142,
+          "download_count": 84143,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28104/app-release.apk"
         },
         {
@@ -159,13 +159,13 @@
         {
           "name": "app-debug.apk",
           "size": 23370145,
-          "download_count": 54383,
+          "download_count": 54384,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28103/app-debug.apk"
         },
         {
           "name": "app-release.apk",
           "size": 11475322,
-          "download_count": 188311,
+          "download_count": 188317,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28103/app-release.apk"
         },
         {
@@ -191,7 +191,7 @@
         {
           "name": "app-release.apk",
           "size": 11389306,
-          "download_count": 168062,
+          "download_count": 168063,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28102/app-release.apk"
         },
         {
@@ -211,7 +211,7 @@
         {
           "name": "Magisk-v28.1.apk",
           "size": 11716982,
-          "download_count": 4116168,
+          "download_count": 4116270,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk"
         }
       ]
@@ -231,13 +231,13 @@
         {
           "name": "app-release.apk",
           "size": 11716986,
-          "download_count": 141150,
+          "download_count": 141151,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28101/app-release.apk"
         },
         {
           "name": "notes.md",
           "size": 81,
-          "download_count": 118952,
+          "download_count": 118953,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-28101/notes.md"
         }
       ]
@@ -303,7 +303,7 @@
         {
           "name": "Magisk-v28.0.apk",
           "size": 11212065,
-          "download_count": 1474796,
+          "download_count": 1474846,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v28.0/Magisk-v28.0.apk"
         }
       ]
@@ -343,13 +343,13 @@
         {
           "name": "app-debug.apk",
           "size": 22795716,
-          "download_count": 69412,
+          "download_count": 69415,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27008/app-debug.apk"
         },
         {
           "name": "app-release.apk",
           "size": 11191589,
-          "download_count": 151300,
+          "download_count": 151304,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27008/app-release.apk"
         },
         {
@@ -375,7 +375,7 @@
         {
           "name": "app-release.apk",
           "size": 10957947,
-          "download_count": 170126,
+          "download_count": 170128,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27007/app-release.apk"
         },
         {
@@ -395,13 +395,13 @@
         {
           "name": "app-debug.apk",
           "size": 22701729,
-          "download_count": 47257,
+          "download_count": 47259,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27006/app-debug.apk"
         },
         {
           "name": "app-release.apk",
           "size": 12650031,
-          "download_count": 165421,
+          "download_count": 165422,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27006/app-release.apk"
         },
         {
@@ -421,13 +421,13 @@
         {
           "name": "app-debug.apk",
           "size": 22701373,
-          "download_count": 6865,
+          "download_count": 6867,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27005/app-debug.apk"
         },
         {
           "name": "app-release.apk",
           "size": 12645579,
-          "download_count": 16885,
+          "download_count": 16890,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/canary-27005/app-release.apk"
         },
         {
@@ -447,7 +447,7 @@
         {
           "name": "Magisk-v27.0.apk",
           "size": 12498796,
-          "download_count": 4919559,
+          "download_count": 4919619,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk"
         }
       ]
@@ -461,7 +461,7 @@
         {
           "name": "Magisk-v26.4.apk",
           "size": 12526383,
-          "download_count": 1332509,
+          "download_count": 1332518,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.4/Magisk-v26.4.apk"
         }
       ]
@@ -475,7 +475,7 @@
         {
           "name": "Magisk.v26.3.apk",
           "size": 12551118,
-          "download_count": 580469,
+          "download_count": 580522,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.3/Magisk.v26.3.apk"
         }
       ]
@@ -489,7 +489,7 @@
         {
           "name": "Magisk-v26.2.apk",
           "size": 12510158,
-          "download_count": 96492,
+          "download_count": 96499,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.2/Magisk-v26.2.apk"
         }
       ]
@@ -503,13 +503,13 @@
         {
           "name": "Magisk-v26.1.apk",
           "size": 11411692,
-          "download_count": 2407041,
+          "download_count": 2407057,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.1/Magisk-v26.1.apk"
         },
         {
           "name": "stub-release.apk",
           "size": 29053,
-          "download_count": 66156,
+          "download_count": 66158,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.1/stub-release.apk"
         }
       ]
@@ -523,7 +523,7 @@
         {
           "name": "Magisk-v26.0.apk",
           "size": 11399404,
-          "download_count": 172965,
+          "download_count": 172966,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v26.0/Magisk-v26.0.apk"
         },
         {
@@ -543,13 +543,13 @@
         {
           "name": "Magisk-v25.2.apk",
           "size": 11278270,
-          "download_count": 4055179,
+          "download_count": 4055200,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk"
         },
         {
           "name": "stub-release.apk",
           "size": 29037,
-          "download_count": 156218,
+          "download_count": 156220,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.2/stub-release.apk"
         }
       ]
@@ -563,7 +563,7 @@
         {
           "name": "Magisk-v25.1.apk",
           "size": 11229118,
-          "download_count": 819855,
+          "download_count": 819859,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.1/Magisk-v25.1.apk"
         },
         {
@@ -583,13 +583,13 @@
         {
           "name": "Magisk-v25.0.apk",
           "size": 11110603,
-          "download_count": 417447,
+          "download_count": 417450,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.0/Magisk-v25.0.apk"
         },
         {
           "name": "stub-release.apk",
           "size": 30036,
-          "download_count": 10545,
+          "download_count": 10546,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v25.0/stub-release.apk"
         }
       ]
@@ -603,7 +603,7 @@
         {
           "name": "Magisk-v24.3.apk",
           "size": 10878069,
-          "download_count": 867222,
+          "download_count": 867233,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk"
         },
         {
@@ -623,7 +623,7 @@
         {
           "name": "Magisk-v24.2.apk",
           "size": 10871119,
-          "download_count": 1051513,
+          "download_count": 1051516,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v24.2/Magisk-v24.2.apk"
         },
         {
@@ -643,13 +643,13 @@
         {
           "name": "Magisk-v24.1.apk",
           "size": 10641074,
-          "download_count": 583353,
+          "download_count": 583360,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk"
         },
         {
           "name": "stub-release.apk",
           "size": 26907,
-          "download_count": 28050,
+          "download_count": 28051,
           "browser_download_url": "https://github.com/topjohnwu/Magisk/releases/download/v24.1/stub-release.apk"
         }
       ]
@@ -665,67 +665,67 @@
         {
           "name": "android12-5.10.209_2024-05-boot-gz.img.gz",
           "size": 17153540,
-          "download_count": 35407,
+          "download_count": 35445,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.209_2024-05-boot-gz.img.gz"
         },
         {
           "name": "android12-5.10.209_2024-05-boot-lz4.img.gz",
           "size": 17425487,
-          "download_count": 4752,
+          "download_count": 4759,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.209_2024-05-boot-lz4.img.gz"
         },
         {
           "name": "android12-5.10.209_2024-05-boot.img.gz",
           "size": 17206520,
-          "download_count": 4522,
+          "download_count": 4527,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.209_2024-05-boot.img.gz"
         },
         {
           "name": "android12-5.10.218_2024-08-boot-gz.img.gz",
           "size": 17162882,
-          "download_count": 1356,
+          "download_count": 1360,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.218_2024-08-boot-gz.img.gz"
         },
         {
           "name": "android12-5.10.218_2024-08-boot-lz4.img.gz",
           "size": 17439728,
-          "download_count": 1077,
+          "download_count": 1081,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.218_2024-08-boot-lz4.img.gz"
         },
         {
           "name": "android12-5.10.218_2024-08-boot.img.gz",
           "size": 17218768,
-          "download_count": 1330,
+          "download_count": 1332,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.218_2024-08-boot.img.gz"
         },
         {
           "name": "android12-5.10.226_2024-11-boot-gz.img.gz",
           "size": 17177430,
-          "download_count": 2024,
+          "download_count": 2025,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.226_2024-11-boot-gz.img.gz"
         },
         {
           "name": "android12-5.10.226_2024-11-boot-lz4.img.gz",
           "size": 17452096,
-          "download_count": 1859,
+          "download_count": 1864,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.226_2024-11-boot-lz4.img.gz"
         },
         {
           "name": "android12-5.10.226_2024-11-boot.img.gz",
           "size": 17233270,
-          "download_count": 4867,
+          "download_count": 4874,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10.226_2024-11-boot.img.gz"
         },
         {
           "name": "android12-5.10_kernelsu.ko",
           "size": 162360,
-          "download_count": 6128,
+          "download_count": 6134,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android12-5.10_kernelsu.ko"
         },
         {
           "name": "android13-5.10.209_2024-05-boot-gz.img.gz",
           "size": 18318269,
-          "download_count": 1051,
+          "download_count": 1052,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.10.209_2024-05-boot-gz.img.gz"
         },
         {
@@ -767,7 +767,7 @@
         {
           "name": "android13-5.10.214_2024-07-boot-lz4.img.gz",
           "size": 18731530,
-          "download_count": 279,
+          "download_count": 280,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.10.214_2024-07-boot-lz4.img.gz"
         },
         {
@@ -809,19 +809,19 @@
         {
           "name": "android13-5.10.223_2024-11-boot.img.gz",
           "size": 18385564,
-          "download_count": 729,
+          "download_count": 730,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.10.223_2024-11-boot.img.gz"
         },
         {
           "name": "android13-5.10_kernelsu.ko",
           "size": 161744,
-          "download_count": 707,
+          "download_count": 709,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.10_kernelsu.ko"
         },
         {
           "name": "android13-5.15.148_2024-05-boot-gz.img.gz",
           "size": 18725129,
-          "download_count": 790,
+          "download_count": 791,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.148_2024-05-boot-gz.img.gz"
         },
         {
@@ -833,7 +833,7 @@
         {
           "name": "android13-5.15.148_2024-05-boot.img.gz",
           "size": 18773182,
-          "download_count": 1083,
+          "download_count": 1084,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.148_2024-05-boot.img.gz"
         },
         {
@@ -875,19 +875,19 @@
         {
           "name": "android13-5.15.153_2024-09-boot-gz.img.gz",
           "size": 18755771,
-          "download_count": 423,
+          "download_count": 425,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.153_2024-09-boot-gz.img.gz"
         },
         {
           "name": "android13-5.15.153_2024-09-boot-lz4.img.gz",
           "size": 19165620,
-          "download_count": 443,
+          "download_count": 444,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.153_2024-09-boot-lz4.img.gz"
         },
         {
           "name": "android13-5.15.153_2024-09-boot.img.gz",
           "size": 18803278,
-          "download_count": 914,
+          "download_count": 915,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.153_2024-09-boot.img.gz"
         },
         {
@@ -905,7 +905,7 @@
         {
           "name": "android13-5.15.167_2024-11-boot.img.gz",
           "size": 18823574,
-          "download_count": 2114,
+          "download_count": 2117,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android13-5.15.167_2024-11-boot.img.gz"
         },
         {
@@ -917,7 +917,7 @@
         {
           "name": "android14-5.15.148_2024-05-boot-gz.img.gz",
           "size": 14697048,
-          "download_count": 704,
+          "download_count": 705,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-5.15.148_2024-05-boot-gz.img.gz"
         },
         {
@@ -959,7 +959,7 @@
         {
           "name": "android14-5.15.153_2024-07-boot-lz4.img.gz",
           "size": 15079780,
-          "download_count": 277,
+          "download_count": 278,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-5.15.153_2024-07-boot-lz4.img.gz"
         },
         {
@@ -989,7 +989,7 @@
         {
           "name": "android14-5.15.164_2024-09-boot-gz.img.gz",
           "size": 14760216,
-          "download_count": 228,
+          "download_count": 229,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-5.15.164_2024-09-boot-gz.img.gz"
         },
         {
@@ -1019,7 +1019,7 @@
         {
           "name": "android14-5.15.167_2024-11-boot.img.gz",
           "size": 14815090,
-          "download_count": 608,
+          "download_count": 609,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-5.15.167_2024-11-boot.img.gz"
         },
         {
@@ -1031,19 +1031,19 @@
         {
           "name": "android14-6.1.112_2024-11-boot-gz.img.gz",
           "size": 14350363,
-          "download_count": 423,
+          "download_count": 424,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1.112_2024-11-boot-gz.img.gz"
         },
         {
           "name": "android14-6.1.112_2024-11-boot-lz4.img.gz",
           "size": 14696358,
-          "download_count": 327,
+          "download_count": 328,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1.112_2024-11-boot-lz4.img.gz"
         },
         {
           "name": "android14-6.1.112_2024-11-boot.img.gz",
           "size": 14368367,
-          "download_count": 512,
+          "download_count": 513,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1.112_2024-11-boot.img.gz"
         },
         {
@@ -1079,7 +1079,7 @@
         {
           "name": "android14-6.1.75_2024-05-boot.img.gz",
           "size": 14157946,
-          "download_count": 1111,
+          "download_count": 1112,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1.75_2024-05-boot.img.gz"
         },
         {
@@ -1169,61 +1169,61 @@
         {
           "name": "android14-6.1.99_2024-10-boot.img.gz",
           "size": 14360412,
-          "download_count": 1462,
+          "download_count": 1463,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1.99_2024-10-boot.img.gz"
         },
         {
           "name": "android14-6.1_kernelsu.ko",
           "size": 259544,
-          "download_count": 804,
+          "download_count": 806,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android14-6.1_kernelsu.ko"
         },
         {
           "name": "android15-6.6.30_2024-08-boot-gz.img.gz",
           "size": 14697889,
-          "download_count": 1384,
+          "download_count": 1386,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.30_2024-08-boot-gz.img.gz"
         },
         {
           "name": "android15-6.6.30_2024-08-boot-lz4.img.gz",
           "size": 15040652,
-          "download_count": 838,
+          "download_count": 839,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.30_2024-08-boot-lz4.img.gz"
         },
         {
           "name": "android15-6.6.30_2024-08-boot.img.gz",
           "size": 14715233,
-          "download_count": 1864,
+          "download_count": 1867,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.30_2024-08-boot.img.gz"
         },
         {
           "name": "android15-6.6.46_2024-09-boot-gz.img.gz",
           "size": 14667689,
-          "download_count": 257,
+          "download_count": 259,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.46_2024-09-boot-gz.img.gz"
         },
         {
           "name": "android15-6.6.46_2024-09-boot-lz4.img.gz",
           "size": 15012026,
-          "download_count": 246,
+          "download_count": 247,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.46_2024-09-boot-lz4.img.gz"
         },
         {
           "name": "android15-6.6.46_2024-09-boot.img.gz",
           "size": 14686924,
-          "download_count": 270,
+          "download_count": 271,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.46_2024-09-boot.img.gz"
         },
         {
           "name": "android15-6.6.50_2024-10-boot-gz.img.gz",
           "size": 14793083,
-          "download_count": 295,
+          "download_count": 296,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.50_2024-10-boot-gz.img.gz"
         },
         {
           "name": "android15-6.6.50_2024-10-boot-lz4.img.gz",
           "size": 15137080,
-          "download_count": 294,
+          "download_count": 295,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.50_2024-10-boot-lz4.img.gz"
         },
         {
@@ -1259,289 +1259,289 @@
         {
           "name": "android15-6.6.57_2024-12-boot-lz4.img.gz",
           "size": 15163198,
-          "download_count": 606,
+          "download_count": 610,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.57_2024-12-boot-lz4.img.gz"
         },
         {
           "name": "android15-6.6.57_2024-12-boot.img.gz",
           "size": 14839417,
-          "download_count": 2103,
+          "download_count": 2107,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6.57_2024-12-boot.img.gz"
         },
         {
           "name": "android15-6.6_kernelsu.ko",
           "size": 157664,
-          "download_count": 1306,
+          "download_count": 1308,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/android15-6.6_kernelsu.ko"
         },
         {
           "name": "AnyKernel3-android12-5.10.209_2024-05.zip",
           "size": 19469792,
-          "download_count": 2808,
+          "download_count": 2811,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android12-5.10.209_2024-05.zip"
         },
         {
           "name": "AnyKernel3-android12-5.10.218_2024-08.zip",
           "size": 19481429,
-          "download_count": 731,
+          "download_count": 732,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android12-5.10.218_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android12-5.10.226_2024-11.zip",
           "size": 19496628,
-          "download_count": 1670,
+          "download_count": 1675,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android12-5.10.226_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android13-5.10.209_2024-05.zip",
           "size": 21827869,
-          "download_count": 861,
+          "download_count": 863,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.10.209_2024-05.zip"
         },
         {
           "name": "AnyKernel3-android13-5.10.210_2024-06.zip",
           "size": 21829453,
-          "download_count": 340,
+          "download_count": 341,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.10.210_2024-06.zip"
         },
         {
           "name": "AnyKernel3-android13-5.10.214_2024-07.zip",
           "size": 21824615,
-          "download_count": 328,
+          "download_count": 329,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.10.214_2024-07.zip"
         },
         {
           "name": "AnyKernel3-android13-5.10.218_2024-08.zip",
           "size": 21826967,
-          "download_count": 363,
+          "download_count": 365,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.10.218_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android13-5.10.223_2024-11.zip",
           "size": 21845591,
-          "download_count": 593,
+          "download_count": 595,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.10.223_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android13-5.15.148_2024-05.zip",
           "size": 22230485,
-          "download_count": 836,
+          "download_count": 838,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.15.148_2024-05.zip"
         },
         {
           "name": "AnyKernel3-android13-5.15.149_2024-07.zip",
           "size": 22250783,
-          "download_count": 605,
+          "download_count": 606,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.15.149_2024-07.zip"
         },
         {
           "name": "AnyKernel3-android13-5.15.151_2024-08.zip",
           "size": 22239274,
-          "download_count": 337,
+          "download_count": 338,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.15.151_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android13-5.15.153_2024-09.zip",
           "size": 22255842,
-          "download_count": 499,
+          "download_count": 500,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.15.153_2024-09.zip"
         },
         {
           "name": "AnyKernel3-android13-5.15.167_2024-11.zip",
           "size": 22281004,
-          "download_count": 1222,
+          "download_count": 1227,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android13-5.15.167_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.148_2024-05.zip",
           "size": 18205571,
-          "download_count": 556,
+          "download_count": 557,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.148_2024-05.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.149_2024-06.zip",
           "size": 18210800,
-          "download_count": 354,
+          "download_count": 355,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.149_2024-06.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.153_2024-07.zip",
           "size": 18210126,
-          "download_count": 318,
+          "download_count": 319,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.153_2024-07.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.158_2024-08.zip",
           "size": 18253127,
-          "download_count": 267,
+          "download_count": 268,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.158_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.164_2024-09.zip",
           "size": 18266626,
-          "download_count": 267,
+          "download_count": 268,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.164_2024-09.zip"
         },
         {
           "name": "AnyKernel3-android14-5.15.167_2024-11.zip",
           "size": 18277362,
-          "download_count": 546,
+          "download_count": 547,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-5.15.167_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.112_2024-11.zip",
           "size": 17823404,
-          "download_count": 494,
+          "download_count": 496,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.112_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.115_2024-12.zip",
           "size": 17834346,
-          "download_count": 845,
+          "download_count": 849,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.115_2024-12.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.75_2024-05.zip",
           "size": 17614690,
-          "download_count": 1242,
+          "download_count": 1244,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.75_2024-05.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.78_2024-06.zip",
           "size": 17767171,
-          "download_count": 416,
+          "download_count": 417,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.78_2024-06.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.84_2024-07.zip",
           "size": 17780417,
-          "download_count": 376,
+          "download_count": 378,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.84_2024-07.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.90_2024-08.zip",
           "size": 17785923,
-          "download_count": 312,
+          "download_count": 313,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.90_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.93_2024-09.zip",
           "size": 17804773,
-          "download_count": 323,
+          "download_count": 324,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.93_2024-09.zip"
         },
         {
           "name": "AnyKernel3-android14-6.1.99_2024-10.zip",
           "size": 17815940,
-          "download_count": 1211,
+          "download_count": 1213,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android14-6.1.99_2024-10.zip"
         },
         {
           "name": "AnyKernel3-android15-6.6.30_2024-08.zip",
           "size": 18169323,
-          "download_count": 1387,
+          "download_count": 1389,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android15-6.6.30_2024-08.zip"
         },
         {
           "name": "AnyKernel3-android15-6.6.46_2024-09.zip",
           "size": 18141182,
-          "download_count": 333,
+          "download_count": 334,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android15-6.6.46_2024-09.zip"
         },
         {
           "name": "AnyKernel3-android15-6.6.50_2024-10.zip",
           "size": 18259287,
-          "download_count": 425,
+          "download_count": 426,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android15-6.6.50_2024-10.zip"
         },
         {
           "name": "AnyKernel3-android15-6.6.56_2024-11.zip",
           "size": 18281145,
-          "download_count": 540,
+          "download_count": 543,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android15-6.6.56_2024-11.zip"
         },
         {
           "name": "AnyKernel3-android15-6.6.57_2024-12.zip",
           "size": 18285265,
-          "download_count": 2251,
+          "download_count": 2255,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/AnyKernel3-android15-6.6.57_2024-12.zip"
         },
         {
           "name": "kernel-ARCVM-arm64-5.10.230.zip",
           "size": 16245035,
-          "download_count": 646,
+          "download_count": 649,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-ARCVM-arm64-5.10.230.zip"
         },
         {
           "name": "kernel-ARCVM-x86_64-5.10.230.zip",
           "size": 10069394,
-          "download_count": 474,
+          "download_count": 475,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-ARCVM-x86_64-5.10.230.zip"
         },
         {
           "name": "kernel-WSA-arm64-5.15.104.1.zip",
           "size": 14848850,
-          "download_count": 426,
+          "download_count": 427,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-arm64-5.15.104.1.zip"
         },
         {
           "name": "kernel-WSA-arm64-5.15.104.2.zip",
           "size": 14849610,
-          "download_count": 271,
+          "download_count": 272,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-arm64-5.15.104.2.zip"
         },
         {
           "name": "kernel-WSA-arm64-5.15.104.3.zip",
           "size": 14852629,
-          "download_count": 258,
+          "download_count": 260,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-arm64-5.15.104.3.zip"
         },
         {
           "name": "kernel-WSA-arm64-5.15.104.4.zip",
           "size": 14845284,
-          "download_count": 443,
+          "download_count": 445,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-arm64-5.15.104.4.zip"
         },
         {
           "name": "kernel-WSA-arm64-5.15.94.2.zip",
           "size": 14846891,
-          "download_count": 557,
+          "download_count": 558,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-arm64-5.15.94.2.zip"
         },
         {
           "name": "kernel-WSA-x86_64-5.15.104.1.zip",
           "size": 17563377,
-          "download_count": 524,
+          "download_count": 526,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-x86_64-5.15.104.1.zip"
         },
         {
           "name": "kernel-WSA-x86_64-5.15.104.2.zip",
           "size": 17565730,
-          "download_count": 314,
+          "download_count": 315,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-x86_64-5.15.104.2.zip"
         },
         {
           "name": "kernel-WSA-x86_64-5.15.104.3.zip",
           "size": 17564744,
-          "download_count": 282,
+          "download_count": 283,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-x86_64-5.15.104.3.zip"
         },
         {
           "name": "kernel-WSA-x86_64-5.15.104.4.zip",
           "size": 17559343,
-          "download_count": 841,
+          "download_count": 843,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-x86_64-5.15.104.4.zip"
         },
         {
           "name": "kernel-WSA-x86_64-5.15.94.2.zip",
           "size": 17556131,
-          "download_count": 630,
+          "download_count": 633,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/kernel-WSA-x86_64-5.15.94.2.zip"
         },
         {
           "name": "KernelSU_v1.0.5_12081-release.apk",
           "size": 7568632,
-          "download_count": 249539,
+          "download_count": 249767,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/KernelSU_v1.0.5_12081-release.apk"
         },
         {
@@ -1565,19 +1565,19 @@
         {
           "name": "ksud-x86_64-apple-darwin",
           "size": 2797240,
-          "download_count": 304,
+          "download_count": 308,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/ksud-x86_64-apple-darwin"
         },
         {
           "name": "ksud-x86_64-linux-android",
           "size": 3152704,
-          "download_count": 1534,
+          "download_count": 1538,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/ksud-x86_64-linux-android"
         },
         {
           "name": "ksud-x86_64-unknown-linux-musl",
           "size": 3609168,
-          "download_count": 917,
+          "download_count": 924,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.5/ksud-x86_64-unknown-linux-musl"
         }
       ]
@@ -1651,7 +1651,7 @@
         {
           "name": "android13-5.10.209_2024-05-boot-gz.img.gz",
           "size": 18318833,
-          "download_count": 852,
+          "download_count": 853,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.3/android13-5.10.209_2024-05-boot-gz.img.gz"
         },
         {
@@ -1831,7 +1831,7 @@
         {
           "name": "android13-5.15.167_2024-11-boot.img.gz",
           "size": 18822950,
-          "download_count": 1394,
+          "download_count": 1395,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.3/android13-5.15.167_2024-11-boot.img.gz"
         },
         {
@@ -2215,7 +2215,7 @@
         {
           "name": "AnyKernel3-android12-5.10.226_2024-11.zip",
           "size": 19491165,
-          "download_count": 1102,
+          "download_count": 1103,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.3/AnyKernel3-android12-5.10.226_2024-11.zip"
         },
         {
@@ -2467,7 +2467,7 @@
         {
           "name": "KernelSU_v1.0.3_12018-release.apk",
           "size": 7926471,
-          "download_count": 237377,
+          "download_count": 237384,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.3/KernelSU_v1.0.3_12018-release.apk"
         },
         {
@@ -3039,7 +3039,7 @@
         {
           "name": "android14-6.1.68_2024-03-boot.img.gz",
           "size": 14130343,
-          "download_count": 664,
+          "download_count": 665,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/android14-6.1.68_2024-03-boot.img.gz"
         },
         {
@@ -3153,7 +3153,7 @@
         {
           "name": "AnyKernel3-android12-5.10.205_2024-03.zip",
           "size": 19441160,
-          "download_count": 553,
+          "download_count": 554,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/AnyKernel3-android12-5.10.205_2024-03.zip"
         },
         {
@@ -3213,7 +3213,7 @@
         {
           "name": "AnyKernel3-android13-5.15.123_2023-11.zip",
           "size": 22116602,
-          "download_count": 1406,
+          "download_count": 1407,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/AnyKernel3-android13-5.15.123_2023-11.zip"
         },
         {
@@ -3417,7 +3417,7 @@
         {
           "name": "KernelSU_v1.0.2_11986-release.apk",
           "size": 7934006,
-          "download_count": 251361,
+          "download_count": 251362,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.2/KernelSU_v1.0.2_11986-release.apk"
         }
       ]
@@ -4013,7 +4013,7 @@
         {
           "name": "KernelSU_v1.0.1_11928-release.apk",
           "size": 8455550,
-          "download_count": 376312,
+          "download_count": 376327,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.1/KernelSU_v1.0.1_11928-release.apk"
         }
       ]
@@ -4117,7 +4117,7 @@
         {
           "name": "android13-5.10.198_2024-01-boot.img.gz",
           "size": 18351468,
-          "download_count": 879,
+          "download_count": 880,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.0/android13-5.10.198_2024-01-boot.img.gz"
         },
         {
@@ -4609,7 +4609,7 @@
         {
           "name": "KernelSU_v1.0.0_11874-release.apk",
           "size": 8527342,
-          "download_count": 196204,
+          "download_count": 196206,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v1.0.0/KernelSU_v1.0.0_11874-release.apk"
         }
       ]
@@ -5205,7 +5205,7 @@
         {
           "name": "KernelSU_v0.9.5_11872-release.apk",
           "size": 8527498,
-          "download_count": 47603,
+          "download_count": 47607,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.5/KernelSU_v0.9.5_11872-release.apk"
         }
       ]
@@ -6973,7 +6973,7 @@
         {
           "name": "KernelSU_v0.9.3-3-gac4c6f7_11807-release.apk",
           "size": 8562210,
-          "download_count": 79311,
+          "download_count": 79313,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.3/KernelSU_v0.9.3-3-gac4c6f7_11807-release.apk"
         }
       ]
@@ -7755,7 +7755,7 @@
         {
           "name": "KernelSU_v0.9.2_11682-release.apk",
           "size": 8513786,
-          "download_count": 143216,
+          "download_count": 143218,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.2/KernelSU_v0.9.2_11682-release.apk"
         }
       ]
@@ -8321,7 +8321,7 @@
         {
           "name": "android13-5.15.74_2023-01-boot-gz.img.gz",
           "size": 18464204,
-          "download_count": 396,
+          "download_count": 397,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/android13-5.15.74_2023-01-boot-gz.img.gz"
         },
         {
@@ -8333,7 +8333,7 @@
         {
           "name": "android13-5.15.74_2023-01-boot.img.gz",
           "size": 18507861,
-          "download_count": 676,
+          "download_count": 678,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/android13-5.15.74_2023-01-boot.img.gz"
         },
         {
@@ -8717,7 +8717,7 @@
         {
           "name": "AnyKernel3-android13-5.15.74_2023-01.zip",
           "size": 21967778,
-          "download_count": 659,
+          "download_count": 662,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/AnyKernel3-android13-5.15.74_2023-01.zip"
         },
         {
@@ -8849,7 +8849,7 @@
         {
           "name": "KernelSU_v0.9.0-22-g8c44e82_11650-release.apk",
           "size": 8499502,
-          "download_count": 29403,
+          "download_count": 29404,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.9.0/KernelSU_v0.9.0-22-g8c44e82_11650-release.apk"
         }
       ]
@@ -9757,7 +9757,7 @@
         {
           "name": "KernelSU_v0.8.1-20-gdbe43b1_11583-release.apk",
           "size": 7026805,
-          "download_count": 81429,
+          "download_count": 81431,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.8.1/KernelSU_v0.8.1-20-gdbe43b1_11583-release.apk"
         }
       ]
@@ -11549,7 +11549,7 @@
         {
           "name": "KernelSU_v0.7.6_11458-release.apk",
           "size": 7411744,
-          "download_count": 123992,
+          "download_count": 123993,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.6/KernelSU_v0.7.6_11458-release.apk"
         }
       ]
@@ -12525,7 +12525,7 @@
         {
           "name": "android12-5.10.136_2022-11-boot.img.gz",
           "size": 17214242,
-          "download_count": 1065,
+          "download_count": 1066,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.2/android12-5.10.136_2022-11-boot.img.gz"
         },
         {
@@ -13341,7 +13341,7 @@
         {
           "name": "KernelSU_v0.7.2_11413-release.apk",
           "size": 7055480,
-          "download_count": 50192,
+          "download_count": 50193,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.2/KernelSU_v0.7.2_11413-release.apk"
         }
       ]
@@ -14093,7 +14093,7 @@
         {
           "name": "KernelSU_v0.7.1_11366-release.apk",
           "size": 7019876,
-          "download_count": 693134,
+          "download_count": 693135,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.7.1/KernelSU_v0.7.1_11366-release.apk"
         }
       ]
@@ -16097,7 +16097,7 @@
         {
           "name": "KernelSU_v0.6.8_11238-release.apk",
           "size": 6692776,
-          "download_count": 79452,
+          "download_count": 79474,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.6.8/KernelSU_v0.6.8_11238-release.apk"
         }
       ]
@@ -16657,7 +16657,7 @@
         {
           "name": "KernelSU_v0.6.7_11210-release.apk",
           "size": 6650812,
-          "download_count": 75711,
+          "download_count": 75712,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.6.7/KernelSU_v0.6.7_11210-release.apk"
         }
       ]
@@ -18507,7 +18507,7 @@
         {
           "name": "KernelSU_v0.6.0_10981-release.apk",
           "size": 6499868,
-          "download_count": 23112,
+          "download_count": 23114,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.6.0/KernelSU_v0.6.0_10981-release.apk"
         },
         {
@@ -18803,7 +18803,7 @@
         {
           "name": "KernelSU_v0.5.7_10866-release.apk",
           "size": 6154035,
-          "download_count": 22606,
+          "download_count": 22608,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.5.7/KernelSU_v0.5.7_10866-release.apk"
         }
       ]
@@ -19559,7 +19559,7 @@
         {
           "name": "KernelSU_v0.5.4-release.apk",
           "size": 6322751,
-          "download_count": 2797,
+          "download_count": 2798,
           "browser_download_url": "https://github.com/tiann/KernelSU/releases/download/v0.5.4/KernelSU_v0.5.4-release.apk"
         }
       ]
@@ -20041,7 +20041,7 @@
         {
           "name": "ProtonVPN-5.12.48.1.605124801.-production-vanilla-direct-release.apk",
           "size": 84294792,
-          "download_count": 4735,
+          "download_count": 5313,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.12.48.1/ProtonVPN-5.12.48.1.605124801.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20055,7 +20055,7 @@
         {
           "name": "ProtonVPN-5.12.48.0.605124800.-production-vanilla-direct-release.apk",
           "size": 84294792,
-          "download_count": 1452,
+          "download_count": 1459,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.12.48.0/ProtonVPN-5.12.48.0.605124800.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20069,7 +20069,7 @@
         {
           "name": "ProtonVPN-5.12.25.0.605122500.-production-vanilla-direct-release.apk",
           "size": 84290696,
-          "download_count": 45218,
+          "download_count": 45221,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.12.25.0/ProtonVPN-5.12.25.0.605122500.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20083,7 +20083,7 @@
         {
           "name": "ProtonVPN-5.11.73.1.605117301.-production-vanilla-direct-release.apk",
           "size": 81402395,
-          "download_count": 40070,
+          "download_count": 40071,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.11.73.1/ProtonVPN-5.11.73.1.605117301.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20097,7 +20097,7 @@
         {
           "name": "ProtonVPN-5.11.39.1.605113901.-production-vanilla-direct-release.apk",
           "size": 81347516,
-          "download_count": 28279,
+          "download_count": 28280,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.11.39.1/ProtonVPN-5.11.39.1.605113901.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20111,7 +20111,7 @@
         {
           "name": "ProtonVPN-5.11.29.1.605112901.-production-vanilla-direct-release.apk",
           "size": 81318163,
-          "download_count": 27492,
+          "download_count": 27496,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.11.29.1/ProtonVPN-5.11.29.1.605112901.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20139,7 +20139,7 @@
         {
           "name": "ProtonVPN-5.10.32.0.605103200.-production-vanilla-direct-release.apk",
           "size": 80176032,
-          "download_count": 42012,
+          "download_count": 42013,
           "browser_download_url": "https://github.com/ProtonVPN/android-app/releases/download/5.10.32.0/ProtonVPN-5.10.32.0.605103200.-production-vanilla-direct-release.apk"
         }
       ]
@@ -20463,7 +20463,7 @@
         {
           "name": "Signal-Android-website-prod-universal-release-7.53.0.apk",
           "size": 111779524,
-          "download_count": 388,
+          "download_count": 402,
           "browser_download_url": "https://github.com/signalapp/Signal-Android/releases/download/v7.53.0/Signal-Android-website-prod-universal-release-7.53.0.apk"
         }
       ]
@@ -20477,7 +20477,7 @@
         {
           "name": "Signal-Android-website-prod-universal-release-7.52.2.apk",
           "size": 111627852,
-          "download_count": 4744,
+          "download_count": 4821,
           "browser_download_url": "https://github.com/signalapp/Signal-Android/releases/download/v7.52.2/Signal-Android-website-prod-universal-release-7.52.2.apk"
         }
       ]
@@ -20519,7 +20519,7 @@
         {
           "name": "Signal-Android-website-prod-universal-release-7.51.2.apk",
           "size": 111418842,
-          "download_count": 6001,
+          "download_count": 6003,
           "browser_download_url": "https://github.com/signalapp/Signal-Android/releases/download/v7.51.2/Signal-Android-website-prod-universal-release-7.51.2.apk"
         }
       ]
@@ -20561,7 +20561,7 @@
         {
           "name": "Signal-Android-website-prod-universal-release-7.50.1.apk",
           "size": 110832968,
-          "download_count": 7073,
+          "download_count": 7076,
           "browser_download_url": "https://github.com/signalapp/Signal-Android/releases/download/v7.50.1/Signal-Android-website-prod-universal-release-7.50.1.apk"
         }
       ]
@@ -20903,13 +20903,13 @@
         {
           "name": "brave-browser-nightly-1.83.49-linux-amd64.zip",
           "size": 178761578,
-          "download_count": 4,
+          "download_count": 10,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-browser-nightly-1.83.49-linux-amd64.zip"
         },
         {
           "name": "brave-browser-nightly-1.83.49-linux-amd64.zip.sha256",
           "size": 111,
-          "download_count": 0,
+          "download_count": 3,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-browser-nightly-1.83.49-linux-amd64.zip.sha256"
         },
         {
@@ -20921,7 +20921,7 @@
         {
           "name": "Brave-Browser-Nightly-arm64.dmg",
           "size": 134246528,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Brave-Browser-Nightly-arm64.dmg"
         },
         {
@@ -20939,7 +20939,7 @@
         {
           "name": "Brave-Browser-Nightly-arm64.pkg",
           "size": 127089288,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Brave-Browser-Nightly-arm64.pkg"
         },
         {
@@ -20975,7 +20975,7 @@
         {
           "name": "Brave-Browser-Nightly-universal.pkg",
           "size": 220165249,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Brave-Browser-Nightly-universal.pkg"
         },
         {
@@ -20993,7 +20993,7 @@
         {
           "name": "Brave-Browser-Nightly-x64.dmg",
           "size": 148774167,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Brave-Browser-Nightly-x64.dmg"
         },
         {
@@ -21011,7 +21011,7 @@
         {
           "name": "Brave-Browser-Nightly-x64.pkg",
           "size": 141149796,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Brave-Browser-Nightly-x64.pkg"
         },
         {
@@ -21029,7 +21029,7 @@
         {
           "name": "brave-browser-nightly_1.83.49_amd64.deb",
           "size": 127001860,
-          "download_count": 3,
+          "download_count": 6,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-browser-nightly_1.83.49_amd64.deb"
         },
         {
@@ -21065,7 +21065,7 @@
         {
           "name": "brave-v1.83.49-darwin-arm64.zip",
           "size": 182442283,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-v1.83.49-darwin-arm64.zip"
         },
         {
@@ -21101,7 +21101,7 @@
         {
           "name": "brave-v1.83.49-darwin-x64.zip",
           "size": 189909267,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-v1.83.49-darwin-x64.zip"
         },
         {
@@ -21155,13 +21155,13 @@
         {
           "name": "brave-v1.83.49-win32-x64.zip",
           "size": 208092123,
-          "download_count": 17,
+          "download_count": 37,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-v1.83.49-win32-x64.zip"
         },
         {
           "name": "brave-v1.83.49-win32-x64.zip.sha256",
           "size": 94,
-          "download_count": 1,
+          "download_count": 3,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/brave-v1.83.49-win32-x64.zip.sha256"
         },
         {
@@ -21173,7 +21173,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 289182539,
-          "download_count": 6,
+          "download_count": 17,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/Bravearm64Universal.apk"
         },
         {
@@ -21191,7 +21191,7 @@
         {
           "name": "BraveBrowserNightlySetup.exe",
           "size": 1277792,
-          "download_count": 3,
+          "download_count": 6,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/BraveBrowserNightlySetup.exe"
         },
         {
@@ -21209,7 +21209,7 @@
         {
           "name": "BraveBrowserStandaloneNightlySetup.exe",
           "size": 136659296,
-          "download_count": 8,
+          "download_count": 14,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/BraveBrowserStandaloneNightlySetup.exe"
         },
         {
@@ -21227,7 +21227,7 @@
         {
           "name": "BraveBrowserStandaloneSilentNightlySetup.exe",
           "size": 136659296,
-          "download_count": 1,
+          "download_count": 6,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/BraveBrowserStandaloneSilentNightlySetup.exe"
         },
         {
@@ -21281,7 +21281,7 @@
         {
           "name": "BraveMonoarm64.apk",
           "size": 375596876,
-          "download_count": 6,
+          "download_count": 30,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/BraveMonoarm64.apk"
         },
         {
@@ -21335,7 +21335,7 @@
         {
           "name": "policy_templates.zip",
           "size": 5767227,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/policy_templates.zip"
         },
         {
@@ -21349,6 +21349,194 @@
           "size": 833,
           "download_count": 0,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.49/policy_templates.zip.sha256.asc"
+        }
+      ]
+    },
+    {
+      "tag_name": "v1.82.146",
+      "name": "Beta v1.82.146 (Chromium 139.0.7258.127) \n\n",
+      "published_at": "2025-08-15T08:18:08Z",
+      "body": "Beta v1.82.146 (Chromium 139.0.7258.127) \n\n*This is NOT the release (stable) channel version of Brave.\n\n# Android\nPick the `APK` suitable for your device's architecture.\n\n# iOS\n`brave-core-ios.*` contains Brave for iOS.\n\n# Linux\n`DEB` and `RPM` packages attached below, details at https://brave.com/linux\n\n# macOS\n`Brave-Browser-Beta-*.dmg` or `Brave-Browser-Beta-*.pkg` will install this version.\nmacOS 11 and above are supported as per https://support.brave.app/hc/en-us/articles/360021357112-What-are-the-system-requirements-to-install-Brave\n\n# Windows\n`BraveBrowserBetaSetup.exe` will fetch and install the latest available version for your CPU architecture from our update servers.\nWindows 10 and above are supported as per https://support.brave.app/hc/en-us/articles/360021357112-What-are-the-system-requirements-to-install-Brave\n",
+      "assets": [
+        {
+          "name": "brave-browser-beta-1.82.146-1.x86_64.rpm",
+          "size": 129634713,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-1.x86_64.rpm"
+        },
+        {
+          "name": "brave-browser-beta-1.82.146-1.x86_64.rpm.sha256",
+          "size": 106,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-1.x86_64.rpm.sha256"
+        },
+        {
+          "name": "brave-browser-beta-1.82.146-1.x86_64.rpm.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-1.x86_64.rpm.sha256.asc"
+        },
+        {
+          "name": "brave-browser-beta-1.82.146-linux-amd64.zip",
+          "size": 179760338,
+          "download_count": 4,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-linux-amd64.zip"
+        },
+        {
+          "name": "brave-browser-beta-1.82.146-linux-amd64.zip.sha256",
+          "size": 109,
+          "download_count": 4,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-linux-amd64.zip.sha256"
+        },
+        {
+          "name": "brave-browser-beta-1.82.146-linux-amd64.zip.sha256.asc",
+          "size": 833,
+          "download_count": 1,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta-1.82.146-linux-amd64.zip.sha256.asc"
+        },
+        {
+          "name": "brave-browser-beta_1.82.146_amd64.deb",
+          "size": 128058748,
+          "download_count": 2,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta_1.82.146_amd64.deb"
+        },
+        {
+          "name": "brave-browser-beta_1.82.146_amd64.deb.sha256",
+          "size": 103,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta_1.82.146_amd64.deb.sha256"
+        },
+        {
+          "name": "brave-browser-beta_1.82.146_amd64.deb.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-browser-beta_1.82.146_amd64.deb.sha256.asc"
+        },
+        {
+          "name": "brave-v1.82.146-linux-x64-symbols.zip",
+          "size": 284258465,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-v1.82.146-linux-x64-symbols.zip"
+        },
+        {
+          "name": "brave-v1.82.146-linux-x64-symbols.zip.sha256",
+          "size": 103,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-v1.82.146-linux-x64-symbols.zip.sha256"
+        },
+        {
+          "name": "brave-v1.82.146-linux-x64-symbols.zip.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/brave-v1.82.146-linux-x64-symbols.zip.sha256.asc"
+        },
+        {
+          "name": "Bravearm64Universal.apk",
+          "size": 289018186,
+          "download_count": 1,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/Bravearm64Universal.apk"
+        },
+        {
+          "name": "Bravearm64Universal.apk.sha256",
+          "size": 89,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/Bravearm64Universal.apk.sha256"
+        },
+        {
+          "name": "Bravearm64Universal.apk.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/Bravearm64Universal.apk.sha256.asc"
+        },
+        {
+          "name": "BraveMonoarm.apk",
+          "size": 208144026,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm.apk"
+        },
+        {
+          "name": "BraveMonoarm.apk.sha256",
+          "size": 82,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm.apk.sha256"
+        },
+        {
+          "name": "BraveMonoarm.apk.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm.apk.sha256.asc"
+        },
+        {
+          "name": "BraveMonoarm64.aab",
+          "size": 137128827,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.aab"
+        },
+        {
+          "name": "BraveMonoarm64.aab.sha256",
+          "size": 84,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.aab.sha256"
+        },
+        {
+          "name": "BraveMonoarm64.aab.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.aab.sha256.asc"
+        },
+        {
+          "name": "BraveMonoarm64.apk",
+          "size": 375251165,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.apk"
+        },
+        {
+          "name": "BraveMonoarm64.apk.sha256",
+          "size": 84,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.apk.sha256"
+        },
+        {
+          "name": "BraveMonoarm64.apk.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonoarm64.apk.sha256.asc"
+        },
+        {
+          "name": "BraveMonox64.apk",
+          "size": 460745008,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox64.apk"
+        },
+        {
+          "name": "BraveMonox64.apk.sha256",
+          "size": 82,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox64.apk.sha256"
+        },
+        {
+          "name": "BraveMonox64.apk.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox64.apk.sha256.asc"
+        },
+        {
+          "name": "BraveMonox86.apk",
+          "size": 270748653,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox86.apk"
+        },
+        {
+          "name": "BraveMonox86.apk.sha256",
+          "size": 82,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox86.apk.sha256"
+        },
+        {
+          "name": "BraveMonox86.apk.sha256.asc",
+          "size": 833,
+          "download_count": 0,
+          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.146/BraveMonox86.apk.sha256.asc"
         }
       ]
     },
@@ -21505,7 +21693,7 @@
         {
           "name": "brave-browser-nightly_1.83.48_amd64.deb",
           "size": 126967520,
-          "download_count": 4,
+          "download_count": 5,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.48/brave-browser-nightly_1.83.48_amd64.deb"
         },
         {
@@ -21649,7 +21837,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 289178443,
-          "download_count": 36,
+          "download_count": 37,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.48/Bravearm64Universal.apk"
         },
         {
@@ -21685,7 +21873,7 @@
         {
           "name": "BraveBrowserStandaloneNightlySetup.exe",
           "size": 136661856,
-          "download_count": 7,
+          "download_count": 8,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.48/BraveBrowserStandaloneNightlySetup.exe"
         },
         {
@@ -21721,7 +21909,7 @@
         {
           "name": "BraveMonoarm.apk",
           "size": 208489089,
-          "download_count": 3,
+          "download_count": 5,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.48/BraveMonoarm.apk"
         },
         {
@@ -21775,7 +21963,7 @@
         {
           "name": "BraveMonox64.apk",
           "size": 461090748,
-          "download_count": 2,
+          "download_count": 3,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.48/BraveMonox64.apk"
         },
         {
@@ -21837,7 +22025,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 289178443,
-          "download_count": 285,
+          "download_count": 327,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.47/Bravearm64Universal.apk"
         },
         {
@@ -21855,7 +22043,7 @@
         {
           "name": "BraveMonoarm.apk",
           "size": 208488654,
-          "download_count": 7,
+          "download_count": 9,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.47/BraveMonoarm.apk"
         },
         {
@@ -21891,7 +22079,7 @@
         {
           "name": "BraveMonoarm64.apk",
           "size": 375596483,
-          "download_count": 62,
+          "download_count": 68,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.47/BraveMonoarm64.apk"
         },
         {
@@ -21909,7 +22097,7 @@
         {
           "name": "BraveMonox64.apk",
           "size": 461090378,
-          "download_count": 3,
+          "download_count": 4,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.47/BraveMonox64.apk"
         },
         {
@@ -21927,7 +22115,7 @@
         {
           "name": "BraveMonox86.apk",
           "size": 271089561,
-          "download_count": 3,
+          "download_count": 4,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.47/BraveMonox86.apk"
         },
         {
@@ -22367,7 +22555,7 @@
         {
           "name": "BraveBrowserStandaloneNightlySetup.exe",
           "size": 136663904,
-          "download_count": 21,
+          "download_count": 28,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.46/BraveBrowserStandaloneNightlySetup.exe"
         },
         {
@@ -22385,7 +22573,7 @@
         {
           "name": "BraveBrowserStandaloneNightlySetup32.exe",
           "size": 123570016,
-          "download_count": 11,
+          "download_count": 13,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.46/BraveBrowserStandaloneNightlySetup32.exe"
         },
         {
@@ -22421,7 +22609,7 @@
         {
           "name": "BraveBrowserStandaloneSilentNightlySetup.exe",
           "size": 136664928,
-          "download_count": 11,
+          "download_count": 13,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.46/BraveBrowserStandaloneSilentNightlySetup.exe"
         },
         {
@@ -23157,7 +23345,7 @@
         {
           "name": "brave-browser-beta_1.82.145_amd64.deb",
           "size": 128080716,
-          "download_count": 237,
+          "download_count": 248,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/brave-browser-beta_1.82.145_amd64.deb"
         },
         {
@@ -23427,7 +23615,7 @@
         {
           "name": "brave-v1.82.145-win32-x64.zip",
           "size": 209726513,
-          "download_count": 27,
+          "download_count": 30,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/brave-v1.82.145-win32-x64.zip"
         },
         {
@@ -23445,7 +23633,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 289018186,
-          "download_count": 476,
+          "download_count": 499,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/Bravearm64Universal.apk"
         },
         {
@@ -23481,7 +23669,7 @@
         {
           "name": "BraveBrowserStandaloneBetaSetup.exe",
           "size": 137995616,
-          "download_count": 72,
+          "download_count": 78,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveBrowserStandaloneBetaSetup.exe"
         },
         {
@@ -23499,7 +23687,7 @@
         {
           "name": "BraveBrowserStandaloneBetaSetup32.exe",
           "size": 124899680,
-          "download_count": 19,
+          "download_count": 21,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveBrowserStandaloneBetaSetup32.exe"
         },
         {
@@ -23535,7 +23723,7 @@
         {
           "name": "BraveBrowserStandaloneSilentBetaSetup.exe",
           "size": 137994080,
-          "download_count": 41,
+          "download_count": 43,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveBrowserStandaloneSilentBetaSetup.exe"
         },
         {
@@ -23553,7 +23741,7 @@
         {
           "name": "BraveBrowserStandaloneSilentBetaSetup32.exe",
           "size": 124887904,
-          "download_count": 17,
+          "download_count": 18,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveBrowserStandaloneSilentBetaSetup32.exe"
         },
         {
@@ -23589,7 +23777,7 @@
         {
           "name": "BraveMonoarm.apk",
           "size": 208144025,
-          "download_count": 22,
+          "download_count": 25,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveMonoarm.apk"
         },
         {
@@ -23625,7 +23813,7 @@
         {
           "name": "BraveMonoarm64.apk",
           "size": 375251164,
-          "download_count": 43,
+          "download_count": 44,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.82.145/BraveMonoarm64.apk"
         },
         {
@@ -24101,7 +24289,7 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 289174347,
-          "download_count": 375,
+          "download_count": 376,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.44/Bravearm64Universal.apk"
         },
         {
@@ -24245,7 +24433,7 @@
         {
           "name": "BraveMonoarm.apk",
           "size": 208466201,
-          "download_count": 14,
+          "download_count": 15,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.44/BraveMonoarm.apk"
         },
         {
@@ -24281,7 +24469,7 @@
         {
           "name": "BraveMonoarm64.apk",
           "size": 375565843,
-          "download_count": 92,
+          "download_count": 93,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.44/BraveMonoarm64.apk"
         },
         {
@@ -24299,7 +24487,7 @@
         {
           "name": "BraveMonox64.apk",
           "size": 461059736,
-          "download_count": 3,
+          "download_count": 4,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.44/BraveMonox64.apk"
         },
         {
@@ -24433,7 +24621,7 @@
         {
           "name": "brave-browser-nightly_1.83.41_amd64.deb",
           "size": 126938160,
-          "download_count": 327,
+          "download_count": 338,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.41/brave-browser-nightly_1.83.41_amd64.deb"
         },
         {
@@ -25465,7 +25653,7 @@
         {
           "name": "brave-browser-1.81.135-1.aarch64.rpm",
           "size": 121233801,
-          "download_count": 43,
+          "download_count": 46,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser-1.81.135-1.aarch64.rpm"
         },
         {
@@ -25483,7 +25671,7 @@
         {
           "name": "brave-browser-1.81.135-1.x86_64.rpm",
           "size": 128921941,
-          "download_count": 70,
+          "download_count": 71,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser-1.81.135-1.x86_64.rpm"
         },
         {
@@ -25501,7 +25689,7 @@
         {
           "name": "brave-browser-1.81.135-linux-amd64.zip",
           "size": 178616976,
-          "download_count": 9606,
+          "download_count": 10033,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser-1.81.135-linux-amd64.zip"
         },
         {
@@ -25519,7 +25707,7 @@
         {
           "name": "brave-browser-1.81.135-linux-arm64.zip",
           "size": 178507475,
-          "download_count": 84,
+          "download_count": 86,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser-1.81.135-linux-arm64.zip"
         },
         {
@@ -25537,7 +25725,7 @@
         {
           "name": "Brave-Browser-arm64.dmg",
           "size": 134254273,
-          "download_count": 133,
+          "download_count": 145,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-arm64.dmg"
         },
         {
@@ -25555,7 +25743,7 @@
         {
           "name": "Brave-Browser-arm64.pkg",
           "size": 127650653,
-          "download_count": 23,
+          "download_count": 27,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-arm64.pkg"
         },
         {
@@ -25573,7 +25761,7 @@
         {
           "name": "Brave-Browser-universal.dmg",
           "size": 230140986,
-          "download_count": 251,
+          "download_count": 261,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-universal.dmg"
         },
         {
@@ -25591,7 +25779,7 @@
         {
           "name": "Brave-Browser-universal.pkg",
           "size": 219925218,
-          "download_count": 510,
+          "download_count": 517,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-universal.pkg"
         },
         {
@@ -25609,7 +25797,7 @@
         {
           "name": "Brave-Browser-x64.dmg",
           "size": 148733753,
-          "download_count": 55,
+          "download_count": 62,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-x64.dmg"
         },
         {
@@ -25627,7 +25815,7 @@
         {
           "name": "Brave-Browser-x64.pkg",
           "size": 142121294,
-          "download_count": 18,
+          "download_count": 22,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Brave-Browser-x64.pkg"
         },
         {
@@ -25645,7 +25833,7 @@
         {
           "name": "brave-browser_1.81.135_amd64.deb",
           "size": 127413324,
-          "download_count": 262,
+          "download_count": 283,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser_1.81.135_amd64.deb"
         },
         {
@@ -25663,7 +25851,7 @@
         {
           "name": "brave-browser_1.81.135_arm64.deb",
           "size": 119629440,
-          "download_count": 38,
+          "download_count": 39,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-browser_1.81.135_arm64.deb"
         },
         {
@@ -25879,7 +26067,7 @@
         {
           "name": "brave-v1.81.135-win32-ia32.zip",
           "size": 186000170,
-          "download_count": 94,
+          "download_count": 102,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-v1.81.135-win32-ia32.zip"
         },
         {
@@ -25915,7 +26103,7 @@
         {
           "name": "brave-v1.81.135-win32-x64.zip",
           "size": 208608680,
-          "download_count": 1210,
+          "download_count": 1260,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/brave-v1.81.135-win32-x64.zip"
         },
         {
@@ -25933,13 +26121,13 @@
         {
           "name": "Bravearm64Universal.apk",
           "size": 288272543,
-          "download_count": 7985,
+          "download_count": 8226,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Bravearm64Universal.apk"
         },
         {
           "name": "Bravearm64Universal.apk.sha256",
           "size": 89,
-          "download_count": 18,
+          "download_count": 19,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/Bravearm64Universal.apk.sha256"
         },
         {
@@ -25951,7 +26139,7 @@
         {
           "name": "BraveBrowserSetup.exe",
           "size": 1277280,
-          "download_count": 89,
+          "download_count": 96,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserSetup.exe"
         },
         {
@@ -25969,13 +26157,13 @@
         {
           "name": "BraveBrowserStandaloneSetup.exe",
           "size": 137320288,
-          "download_count": 11582,
+          "download_count": 12338,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSetup.exe"
         },
         {
           "name": "BraveBrowserStandaloneSetup.exe.sha256",
           "size": 110,
-          "download_count": 21,
+          "download_count": 22,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSetup.exe.sha256"
         },
         {
@@ -25987,7 +26175,7 @@
         {
           "name": "BraveBrowserStandaloneSetup32.exe",
           "size": 124266336,
-          "download_count": 705,
+          "download_count": 730,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSetup32.exe"
         },
         {
@@ -26005,7 +26193,7 @@
         {
           "name": "BraveBrowserStandaloneSetupArm64.exe",
           "size": 142552928,
-          "download_count": 231,
+          "download_count": 247,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSetupArm64.exe"
         },
         {
@@ -26023,7 +26211,7 @@
         {
           "name": "BraveBrowserStandaloneSilentSetup.exe",
           "size": 137321824,
-          "download_count": 4058,
+          "download_count": 4242,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSilentSetup.exe"
         },
         {
@@ -26041,13 +26229,13 @@
         {
           "name": "BraveBrowserStandaloneSilentSetup32.exe",
           "size": 124264800,
-          "download_count": 161,
+          "download_count": 171,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSilentSetup32.exe"
         },
         {
           "name": "BraveBrowserStandaloneSilentSetup32.exe.sha256",
           "size": 118,
-          "download_count": 19,
+          "download_count": 20,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSilentSetup32.exe.sha256"
         },
         {
@@ -26059,7 +26247,7 @@
         {
           "name": "BraveBrowserStandaloneSilentSetupArm64.exe",
           "size": 142552928,
-          "download_count": 60,
+          "download_count": 69,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveBrowserStandaloneSilentSetupArm64.exe"
         },
         {
@@ -26077,7 +26265,7 @@
         {
           "name": "BraveMonoarm.apk",
           "size": 202553810,
-          "download_count": 371,
+          "download_count": 398,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveMonoarm.apk"
         },
         {
@@ -26113,7 +26301,7 @@
         {
           "name": "BraveMonoarm64.apk",
           "size": 374534765,
-          "download_count": 810,
+          "download_count": 847,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveMonoarm64.apk"
         },
         {
@@ -26131,7 +26319,7 @@
         {
           "name": "BraveMonox64.apk",
           "size": 459967070,
-          "download_count": 56,
+          "download_count": 59,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveMonox64.apk"
         },
         {
@@ -26149,7 +26337,7 @@
         {
           "name": "BraveMonox86.apk",
           "size": 270155025,
-          "download_count": 30,
+          "download_count": 31,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/BraveMonox86.apk"
         },
         {
@@ -26167,7 +26355,7 @@
         {
           "name": "policy_templates.zip",
           "size": 5725210,
-          "download_count": 23,
+          "download_count": 24,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.135/policy_templates.zip"
         },
         {
@@ -28843,7 +29031,7 @@
         {
           "name": "brave-v1.81.134-win32-x64.zip",
           "size": 208968845,
-          "download_count": 39,
+          "download_count": 40,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.81.134/brave-v1.81.134-win32-x64.zip"
         },
         {
@@ -29127,7 +29315,7 @@
         {
           "name": "brave-browser-nightly-1.83.35-1.x86_64.rpm.sha256",
           "size": 108,
-          "download_count": 0,
+          "download_count": 1,
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.35/brave-browser-nightly-1.83.35-1.x86_64.rpm.sha256"
         },
         {
@@ -33419,626 +33607,6 @@
           "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.24/BraveMonox86.apk.sha256.asc"
         }
       ]
-    },
-    {
-      "tag_name": "v1.83.23",
-      "name": "Nightly v1.83.23 (Chromium 139.0.7258.66) \n\n",
-      "published_at": "2025-08-07T15:38:32Z",
-      "body": "Nightly v1.83.23 (Chromium 139.0.7258.66) \n\n*This is NOT the release (stable) channel version of Brave.\n\n# Android\nPick the `APK` suitable for your device's architecture.\n\n# iOS\n`brave-core-ios.*` contains Brave for iOS.\n\n# Linux\n`DEB` and `RPM` packages attached below, details at https://brave.com/linux\n\n# macOS\n`Brave-Browser-Nightly-*.dmg` or `Brave-Browser-Nightly-*.pkg` will install this version.\nmacOS 11 and above are supported as per https://support.brave.app/hc/en-us/articles/360021357112-What-are-the-system-requirements-to-install-Brave\n\n# Windows\n`BraveBrowserNightlySetup.exe` will fetch and install the latest available version for your CPU architecture from our update servers.\nWindows 10 and above are supported as per https://support.brave.app/hc/en-us/articles/360021357112-What-are-the-system-requirements-to-install-Brave\n",
-      "assets": [
-        {
-          "name": "brave-browser-nightly-1.83.23-1.aarch64.rpm",
-          "size": 120788761,
-          "download_count": 4,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.aarch64.rpm"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-1.aarch64.rpm.sha256",
-          "size": 109,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.aarch64.rpm.sha256"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-1.aarch64.rpm.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.aarch64.rpm.sha256.asc"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-1.x86_64.rpm",
-          "size": 128546597,
-          "download_count": 4,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.x86_64.rpm"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-1.x86_64.rpm.sha256",
-          "size": 108,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.x86_64.rpm.sha256"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-1.x86_64.rpm.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-1.x86_64.rpm.sha256.asc"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-amd64.zip",
-          "size": 178735852,
-          "download_count": 13,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-amd64.zip"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-amd64.zip.sha256",
-          "size": 111,
-          "download_count": 7,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-amd64.zip.sha256"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-amd64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-amd64.zip.sha256.asc"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-arm64.zip",
-          "size": 178592638,
-          "download_count": 3,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-arm64.zip"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-arm64.zip.sha256",
-          "size": 111,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-arm64.zip.sha256"
-        },
-        {
-          "name": "brave-browser-nightly-1.83.23-linux-arm64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly-1.83.23-linux-arm64.zip.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.dmg",
-          "size": 133963292,
-          "download_count": 4,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.dmg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.dmg.sha256",
-          "size": 97,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.dmg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.dmg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.dmg.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.pkg",
-          "size": 126922213,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.pkg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.pkg.sha256",
-          "size": 97,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.pkg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-arm64.pkg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-arm64.pkg.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.dmg",
-          "size": 229983013,
-          "download_count": 5,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.dmg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.dmg.sha256",
-          "size": 101,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.dmg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.dmg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.dmg.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.pkg",
-          "size": 219913535,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.pkg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.pkg.sha256",
-          "size": 101,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.pkg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-universal.pkg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-universal.pkg.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.dmg",
-          "size": 148763720,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.dmg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.dmg.sha256",
-          "size": 95,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.dmg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.dmg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.dmg.sha256.asc"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.pkg",
-          "size": 141184058,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.pkg"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.pkg.sha256",
-          "size": 95,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.pkg.sha256"
-        },
-        {
-          "name": "Brave-Browser-Nightly-x64.pkg.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/Brave-Browser-Nightly-x64.pkg.sha256.asc"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_amd64.deb",
-          "size": 126956480,
-          "download_count": 7,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_amd64.deb"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_amd64.deb.sha256",
-          "size": 105,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_amd64.deb.sha256"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_amd64.deb.sha256.asc",
-          "size": 833,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_amd64.deb.sha256.asc"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_arm64.deb",
-          "size": 119143832,
-          "download_count": 4,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_arm64.deb"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_arm64.deb.sha256",
-          "size": 105,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_arm64.deb.sha256"
-        },
-        {
-          "name": "brave-browser-nightly_1.83.23_arm64.deb.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-browser-nightly_1.83.23_arm64.deb.sha256.asc"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.app.dSYM.zip",
-          "size": 437853580,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.app.dSYM.zip"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.app.dSYM.zip.sha256",
-          "size": 101,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.app.dSYM.zip.sha256"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.app.dSYM.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.app.dSYM.zip.sha256.asc"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.ipa",
-          "size": 236140507,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.ipa"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.ipa.sha256",
-          "size": 92,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.ipa.sha256"
-        },
-        {
-          "name": "brave-core-ios-1.83.23.ipa.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-core-ios-1.83.23.ipa.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64-symbols.zip",
-          "size": 407210445,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64-symbols.zip.sha256",
-          "size": 105,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64.zip",
-          "size": 182248381,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64.zip"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64.zip.sha256",
-          "size": 97,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-arm64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-arm64.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64-symbols.zip",
-          "size": 426905256,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64-symbols.zip.sha256",
-          "size": 103,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64.zip",
-          "size": 189875923,
-          "download_count": 3,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64.zip"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64.zip.sha256",
-          "size": 95,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-darwin-x64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-darwin-x64.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-linux-arm64-symbols.zip",
-          "size": 234209253,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-arm64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-linux-arm64-symbols.zip.sha256",
-          "size": 104,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-arm64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-linux-arm64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-arm64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-linux-x64-symbols.zip",
-          "size": 284886610,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-x64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-linux-x64-symbols.zip.sha256",
-          "size": 102,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-x64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-linux-x64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-linux-x64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64-symbols.zip",
-          "size": 1340213675,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64-symbols.zip.sha256",
-          "size": 104,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64.zip",
-          "size": 203258954,
-          "download_count": 4,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64.zip.sha256",
-          "size": 96,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-arm64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-arm64.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32-symbols.zip",
-          "size": 1276312122,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32-symbols.zip.sha256",
-          "size": 103,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32.zip",
-          "size": 186288974,
-          "download_count": 3,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32.zip.sha256",
-          "size": 95,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-ia32.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-ia32.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64-symbols.zip",
-          "size": 1356679168,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64-symbols.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64-symbols.zip.sha256",
-          "size": 102,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64-symbols.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64-symbols.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64-symbols.zip.sha256.asc"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64.zip",
-          "size": 209079794,
-          "download_count": 7,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64.zip"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64.zip.sha256",
-          "size": 94,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64.zip.sha256"
-        },
-        {
-          "name": "brave-v1.83.23-win32-x64.zip.sha256.asc",
-          "size": 833,
-          "download_count": 2,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/brave-v1.83.23-win32-x64.zip.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserNightlySetup.exe",
-          "size": 1277280,
-          "download_count": 5,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserNightlySetup.exe"
-        },
-        {
-          "name": "BraveBrowserNightlySetup.exe.sha256",
-          "size": 106,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserNightlySetup.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserNightlySetup.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserNightlySetup.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup.exe",
-          "size": 137057632,
-          "download_count": 194,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup.exe.sha256",
-          "size": 116,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup32.exe",
-          "size": 123977568,
-          "download_count": 30,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup32.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup32.exe.sha256",
-          "size": 118,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup32.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetup32.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetup32.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetupArm64.exe",
-          "size": 142025568,
-          "download_count": 25,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetupArm64.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetupArm64.exe.sha256",
-          "size": 121,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetupArm64.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneNightlySetupArm64.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneNightlySetupArm64.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup.exe",
-          "size": 137057120,
-          "download_count": 76,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup.exe.sha256",
-          "size": 122,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup32.exe",
-          "size": 123976032,
-          "download_count": 22,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup32.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup32.exe.sha256",
-          "size": 124,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup32.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetup32.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetup32.exe.sha256.asc"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetupArm64.exe",
-          "size": 142026592,
-          "download_count": 21,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetupArm64.exe"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetupArm64.exe.sha256",
-          "size": 127,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetupArm64.exe.sha256"
-        },
-        {
-          "name": "BraveBrowserStandaloneSilentNightlySetupArm64.exe.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/BraveBrowserStandaloneSilentNightlySetupArm64.exe.sha256.asc"
-        },
-        {
-          "name": "policy_templates.zip",
-          "size": 5766985,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/policy_templates.zip"
-        },
-        {
-          "name": "policy_templates.zip.sha256",
-          "size": 86,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/policy_templates.zip.sha256"
-        },
-        {
-          "name": "policy_templates.zip.sha256.asc",
-          "size": 833,
-          "download_count": 1,
-          "browser_download_url": "https://github.com/brave/brave-browser/releases/download/v1.83.23/policy_templates.zip.sha256.asc"
-        }
-      ]
     }
   ],
   "Termux Monet": [
@@ -34051,7 +33619,7 @@
         {
           "name": "termux-app_v0.119.0-b1-36+apt-android-7-github-debug_arm64-v8a.apk",
           "size": 9602790,
-          "download_count": 14842,
+          "download_count": 14844,
           "browser_download_url": "https://github.com/Termux-Monet/termux-monet/releases/download/v0.119.0-b1-36/termux-app_v0.119.0-b1-36%2Bapt-android-7-github-debug_arm64-v8a.apk"
         },
         {
@@ -34097,67 +33665,67 @@
         {
           "name": "googlephotos-revanced-magisk-v7.41.0.793809016-arm-v7a.zip",
           "size": 111774040,
-          "download_count": 95,
+          "download_count": 112,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/googlephotos-revanced-magisk-v7.41.0.793809016-arm-v7a.zip"
         },
         {
           "name": "googlephotos-revanced-magisk-v7.41.0.793809016-arm64-v8a.zip",
           "size": 170261787,
-          "download_count": 687,
+          "download_count": 768,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/googlephotos-revanced-magisk-v7.41.0.793809016-arm64-v8a.zip"
         },
         {
           "name": "googlephotos-revanced-v7.41.0.793809016-arm-v7a.apk",
           "size": 113235167,
-          "download_count": 82,
+          "download_count": 93,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/googlephotos-revanced-v7.41.0.793809016-arm-v7a.apk"
         },
         {
           "name": "googlephotos-revanced-v7.41.0.793809016-arm64-v8a.apk",
           "size": 171832560,
-          "download_count": 826,
+          "download_count": 891,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/googlephotos-revanced-v7.41.0.793809016-arm64-v8a.apk"
         },
         {
           "name": "music-revanced-magisk-v8.25.54-arm-v7a.zip",
           "size": 51800565,
-          "download_count": 90,
+          "download_count": 102,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/music-revanced-magisk-v8.25.54-arm-v7a.zip"
         },
         {
           "name": "music-revanced-magisk-v8.25.54-arm64-v8a.zip",
           "size": 54422503,
-          "download_count": 1357,
+          "download_count": 1511,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/music-revanced-magisk-v8.25.54-arm64-v8a.zip"
         },
         {
           "name": "music-revanced-v8.25.54-arm-v7a.apk",
           "size": 53698088,
-          "download_count": 102,
+          "download_count": 114,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/music-revanced-v8.25.54-arm-v7a.apk"
         },
         {
           "name": "music-revanced-v8.25.54-arm64-v8a.apk",
           "size": 65519108,
-          "download_count": 2060,
+          "download_count": 2300,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/music-revanced-v8.25.54-arm64-v8a.apk"
         },
         {
           "name": "spotify-revanced-v9.0.68.613-all.apk",
           "size": 82668533,
-          "download_count": 849,
+          "download_count": 948,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/spotify-revanced-v9.0.68.613-all.apk"
         },
         {
           "name": "youtube-revanced-magisk-v20.13.41-all.zip",
           "size": 178651417,
-          "download_count": 3386,
+          "download_count": 3804,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/youtube-revanced-magisk-v20.13.41-all.zip"
         },
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108929136,
-          "download_count": 2964,
+          "download_count": 3202,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221017/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34171,13 +33739,13 @@
         {
           "name": "googlephotos-revanced-magisk-v7.40.0.792701077-arm-v7a.zip",
           "size": 109426344,
-          "download_count": 435,
+          "download_count": 436,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/googlephotos-revanced-magisk-v7.40.0.792701077-arm-v7a.zip"
         },
         {
           "name": "googlephotos-revanced-magisk-v7.40.0.792701077-arm64-v8a.zip",
           "size": 167621731,
-          "download_count": 1795,
+          "download_count": 1797,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/googlephotos-revanced-magisk-v7.40.0.792701077-arm64-v8a.zip"
         },
         {
@@ -34189,7 +33757,7 @@
         {
           "name": "googlephotos-revanced-v7.40.0.792701077-arm64-v8a.apk",
           "size": 169475584,
-          "download_count": 1581,
+          "download_count": 1583,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/googlephotos-revanced-v7.40.0.792701077-arm64-v8a.apk"
         },
         {
@@ -34201,7 +33769,7 @@
         {
           "name": "music-revanced-magisk-v8.30.52-arm64-v8a.zip",
           "size": 55708562,
-          "download_count": 3730,
+          "download_count": 3733,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/music-revanced-magisk-v8.30.52-arm64-v8a.zip"
         },
         {
@@ -34213,25 +33781,25 @@
         {
           "name": "music-revanced-v8.30.52-arm64-v8a.apk",
           "size": 66685469,
-          "download_count": 6263,
+          "download_count": 6272,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/music-revanced-v8.30.52-arm64-v8a.apk"
         },
         {
           "name": "spotify-revanced-v9.0.68.613-all.apk",
           "size": 82717685,
-          "download_count": 2389,
+          "download_count": 2407,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/spotify-revanced-v9.0.68.613-all.apk"
         },
         {
           "name": "youtube-revanced-magisk-v20.13.41-all.zip",
           "size": 178638449,
-          "download_count": 10096,
+          "download_count": 10098,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/youtube-revanced-magisk-v20.13.41-all.zip"
         },
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108879984,
-          "download_count": 6238,
+          "download_count": 6270,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221016/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34245,13 +33813,13 @@
         {
           "name": "googlephotos-revanced-magisk-v7.40.0.790840830-arm-v7a.zip",
           "size": 109454949,
-          "download_count": 730,
+          "download_count": 731,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/googlephotos-revanced-magisk-v7.40.0.790840830-arm-v7a.zip"
         },
         {
           "name": "googlephotos-revanced-magisk-v7.40.0.790840830-arm64-v8a.zip",
           "size": 167628597,
-          "download_count": 2315,
+          "download_count": 2318,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/googlephotos-revanced-magisk-v7.40.0.790840830-arm64-v8a.zip"
         },
         {
@@ -34275,37 +33843,37 @@
         {
           "name": "music-revanced-magisk-v8.31.51-arm64-v8a.zip",
           "size": 56342694,
-          "download_count": 4994,
+          "download_count": 4995,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/music-revanced-magisk-v8.31.51-arm64-v8a.zip"
         },
         {
           "name": "music-revanced-v8.31.51-arm-v7a.apk",
           "size": 48212330,
-          "download_count": 3387,
+          "download_count": 3434,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/music-revanced-v8.31.51-arm-v7a.apk"
         },
         {
           "name": "music-revanced-v8.31.51-arm64-v8a.apk",
           "size": 67029316,
-          "download_count": 8201,
+          "download_count": 8273,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/music-revanced-v8.31.51-arm64-v8a.apk"
         },
         {
           "name": "spotify-revanced-v9.0.68.613-all.apk",
           "size": 82734069,
-          "download_count": 11662,
+          "download_count": 11746,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/spotify-revanced-v9.0.68.613-all.apk"
         },
         {
           "name": "youtube-revanced-magisk-v20.13.41-all.zip",
           "size": 178642490,
-          "download_count": 15850,
+          "download_count": 15887,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/youtube-revanced-magisk-v20.13.41-all.zip"
         },
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108875888,
-          "download_count": 41695,
+          "download_count": 42163,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221015/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34331,13 +33899,13 @@
         {
           "name": "music-revanced-magisk-v8.29.56-arm-v7a.zip",
           "size": 52749867,
-          "download_count": 1266,
+          "download_count": 1268,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221014/music-revanced-magisk-v8.29.56-arm-v7a.zip"
         },
         {
           "name": "music-revanced-magisk-v8.29.56-arm64-v8a.zip",
           "size": 55469423,
-          "download_count": 8572,
+          "download_count": 8575,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221014/music-revanced-magisk-v8.29.56-arm64-v8a.zip"
         },
         {
@@ -34349,7 +33917,7 @@
         {
           "name": "music-revanced-v8.29.56-arm64-v8a.apk",
           "size": 66476818,
-          "download_count": 9741,
+          "download_count": 9742,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221014/music-revanced-v8.29.56-arm64-v8a.apk"
         },
         {
@@ -34361,13 +33929,13 @@
         {
           "name": "youtube-revanced-magisk-v20.13.41-all.zip",
           "size": 178637728,
-          "download_count": 24440,
+          "download_count": 24441,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221014/youtube-revanced-magisk-v20.13.41-all.zip"
         },
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108870963,
-          "download_count": 54777,
+          "download_count": 54781,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221014/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34429,7 +33997,7 @@
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108850483,
-          "download_count": 25883,
+          "download_count": 25921,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221013/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34707,13 +34275,13 @@
         {
           "name": "youtube-revanced-magisk-v20.13.41-all.zip",
           "size": 178487769,
-          "download_count": 26872,
+          "download_count": 26876,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221009/youtube-revanced-magisk-v20.13.41-all.zip"
         },
         {
           "name": "youtube-revanced-v20.13.41-all.apk",
           "size": 108610941,
-          "download_count": 202493,
+          "download_count": 202609,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221009/youtube-revanced-v20.13.41-all.apk"
         }
       ]
@@ -34733,7 +34301,7 @@
         {
           "name": "googlephotos-revanced-v7.34.0.773090893-arm64-v8a.apk",
           "size": 112724985,
-          "download_count": 3087,
+          "download_count": 3089,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221008/googlephotos-revanced-v7.34.0.773090893-arm64-v8a.apk"
         },
         {
@@ -34763,7 +34331,7 @@
         {
           "name": "spotify-revanced-v9.0.56.106-all.apk",
           "size": 89688058,
-          "download_count": 11531,
+          "download_count": 11533,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221008/spotify-revanced-v9.0.56.106-all.apk"
         },
         {
@@ -34801,7 +34369,7 @@
         {
           "name": "googlephotos-revanced-v7.32.0.765953717-arm-v7a.apk",
           "size": 106133042,
-          "download_count": 1203,
+          "download_count": 1204,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221007/googlephotos-revanced-v7.32.0.765953717-arm-v7a.apk"
         },
         {
@@ -34837,7 +34405,7 @@
         {
           "name": "spotify-revanced-v9.0.50.416-all.apk",
           "size": 88345993,
-          "download_count": 7427,
+          "download_count": 7429,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221007/spotify-revanced-v9.0.50.416-all.apk"
         },
         {
@@ -34849,7 +34417,7 @@
         {
           "name": "youtube-revanced-v20.12.46-all.apk",
           "size": 108339387,
-          "download_count": 36982,
+          "download_count": 37001,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221007/youtube-revanced-v20.12.46-all.apk"
         }
       ]
@@ -34985,7 +34553,7 @@
         {
           "name": "youtube-revanced-v20.12.46-all.apk",
           "size": 108298427,
-          "download_count": 236164,
+          "download_count": 236169,
           "browser_download_url": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221005/youtube-revanced-v20.12.46-all.apk"
         }
       ]
@@ -35103,7 +34671,7 @@
         {
           "name": "San-Kernel-PLTS-Uranium-R1.1.99-Tulip-RETROFIT-DYNAMIC.zip",
           "size": 16385795,
-          "download_count": 127,
+          "download_count": 128,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/uranium-r1.1.99/San-Kernel-PLTS-Uranium-R1.1.99-Tulip-RETROFIT-DYNAMIC.zip"
         }
       ]
@@ -35117,7 +34685,7 @@
         {
           "name": "San-Kernel-SundownReverie-R1.1.104-Lavender-KSU.zip",
           "size": 18841443,
-          "download_count": 465,
+          "download_count": 466,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/sundownreverie-r1.1.104/San-Kernel-SundownReverie-R1.1.104-Lavender-KSU.zip"
         },
         {
@@ -35217,7 +34785,7 @@
         {
           "name": "San-Kernel-PLTS-Sanctuary-R.1.1.101-Lavender-OLDCAM-QPNP-KSU-HF.zip",
           "size": 15716413,
-          "download_count": 1523,
+          "download_count": 1524,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/sanctuary-r1.1.101/San-Kernel-PLTS-Sanctuary-R.1.1.101-Lavender-OLDCAM-QPNP-KSU-HF.zip"
         },
         {
@@ -35247,7 +34815,7 @@
         {
           "name": "San-Kernel-PLTS-Sanctuary-R1.1.101-Lavender-OLDCAM-QTI-KSU-HF.zip",
           "size": 15720066,
-          "download_count": 770,
+          "download_count": 771,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/sanctuary-r1.1.101/San-Kernel-PLTS-Sanctuary-R1.1.101-Lavender-OLDCAM-QTI-KSU-HF.zip"
         }
       ]
@@ -35261,13 +34829,13 @@
         {
           "name": "San-Kernel-RadiethSelunaris-R1.1.105-EOL-Lavender-KSU.zip",
           "size": 18850865,
-          "download_count": 1154,
+          "download_count": 1155,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/radiethselunaris-r1.1.105-eol/San-Kernel-RadiethSelunaris-R1.1.105-EOL-Lavender-KSU.zip"
         },
         {
           "name": "San-Kernel-RadiethSelunaris-R1.1.105-EOL-Lavender.zip",
           "size": 18828181,
-          "download_count": 848,
+          "download_count": 849,
           "browser_download_url": "https://github.com/user-why-red/san_kernel_releases/releases/download/radiethselunaris-r1.1.105-eol/San-Kernel-RadiethSelunaris-R1.1.105-EOL-Lavender.zip"
         }
       ]
